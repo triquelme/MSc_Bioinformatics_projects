@@ -1,0 +1,427 @@
+parent	enfant	lien de parenté
+Cluster général	 regulation of bile acid biosynthetic process [GO:0070857]	générale
+Cluster général	 positive regulation of chromatin silencing [GO:0031937]	générale
+Cluster général	 cellular response to drug [GO:0035690]	générale
+Cluster général	 sodium ion transmembrane transport [GO:0035725]	générale
+Cluster général	 membrane repolarization during ventricular cardiac muscle cell action potential [GO:0098915]	générale
+Cluster général	 DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest [GO:0006977]	générale
+Cluster général	 regulation of B cell apoptotic process [GO:0002902]	générale
+Cluster général	 positive regulation of protein ubiquitination [GO:0031398]	générale
+Cluster général	 negative regulation of cholesterol efflux [GO:0090370]	générale
+Cluster général	 regulation of kidney size [GO:0035564]	générale
+Cluster général	 heart looping [GO:0001947]	générale
+Cluster général	 epithelial-mesenchymal signaling involved in prostate gland development [GO:0060738]	générale
+Cluster général	 meiotic spindle elongation [GO:0051232]	générale
+Cluster général	 striated muscle contraction [GO:0006941]	générale
+Cluster général	 cellular response to mechanical stimulus [GO:0071260]	générale
+Cluster général	 negative regulation of myeloid cell apoptotic process [GO:0033033]	générale
+Cluster général	 prostate gland growth [GO:0060736]	générale
+Cluster général	 positive regulation of protein kinase activity [GO:0045860]	générale
+Cluster général	 chromatin assembly [GO:0031497]	générale
+Cluster général	 negative regulation of protein binding [GO:0032091]	générale
+Cluster général	 positive regulation of oxidative stress-induced neuron intrinsic apoptotic signaling pathway [GO:1903378]	générale
+Cluster général	 axon guidance [GO:0007411]	générale
+Cluster général	 cell surface receptor signaling pathway [GO:0007166]	générale
+Cluster général	 multicellular structure septum development [GO:0080125]	générale
+Cluster général	 cell aging [GO:0007569]	générale
+Cluster général	 negative regulation of calcium ion transport into cytosol [GO:0010523]	générale
+Cluster général	long-chain fatty acid metabolic process [GO:0001676]	générale
+Cluster général	 cerebellum development [GO:0021549]	générale
+Cluster général	antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent [GO:0002479]	générale
+Cluster général	 activation of MAPK activity [GO:0000187]	générale
+Cluster général	 dopamine metabolic process [GO:0042417]	générale
+Cluster général	 regulation of neuron projection development [GO:0010975]	générale
+Cluster général	 cloacal septation [GO:0060197]	générale
+Cluster général	 negative regulation of gene expression [GO:0010629]	générale
+Cluster général	 forebrain morphogenesis [GO:0048853]	générale
+Cluster général	 regulation of protein heterodimerization activity [GO:0043497]	générale
+Cluster général	 pattern specification process [GO:0007389]	générale
+Cluster général	 fungiform papilla formation [GO:0061198]	générale
+Cluster général	 positive regulation of endothelial cell proliferation [GO:0001938]	générale
+Cluster général	 blood coagulation, intrinsic pathway [GO:0007597]	générale
+Cluster général	 eyelid development in camera-type eye [GO:0061029]	générale
+Cluster général	 synaptic transmission, glutamatergic [GO:0035249]	générale
+Cluster général	 embryonic forelimb morphogenesis [GO:0035115]	générale
+Cluster général	 regulation of membrane potential [GO:0042391]	générale
+Cluster général	 epithelial cell differentiation involved in prostate gland development [GO:0060742]	générale
+Cluster général	 glomerulus development [GO:0032835]	générale
+Cluster général	 intrinsic apoptotic signaling pathway by p53 class mediator [GO:0072332]	générale
+Cluster général	 cerebellar granule cell precursor proliferation [GO:0021930]	générale
+Cluster général	 endocardial cushion morphogenesis [GO:0003203]	générale
+Cluster général	 organ morphogenesis [GO:0009887]	générale
+Cluster général	 positive regulation of ossification [GO:0045778]	générale
+Cluster général	 dorsal/ventral axis specification [GO:0009950]	générale
+Cluster général	 quinolinate biosynthetic process [GO:0019805]	générale
+Cluster général	 regulation of establishment of protein localization to plasma membrane [GO:0090003]	générale
+Cluster général	 feeding behavior [GO:0007631]	générale
+Cluster général	 positive regulation of protein dephosphorylation [GO:0035307]	générale
+Cluster général	 protein stabilization [GO:0050821]	générale
+Cluster général	 intracellular protein transport [GO:0006886]	générale
+Cluster général	 regulation of phosphatidylinositol 3-kinase signaling [GO:0014066]	générale
+Cluster général	 negative regulation of immature T cell proliferation in thymus [GO:0033088]	générale
+Cluster général	 aging [GO:0007568]	générale
+Cluster général	 T cell receptor signaling pathway [GO:0050852]	générale
+Cluster général	 osteoblast development [GO:0002076]	générale
+Cluster général	 calcium-mediated signaling [GO:0019722]	générale
+Cluster général	 positive regulation of protein localization to nucleus [GO:1900182]	générale
+Cluster général	 visual learning [GO:0008542]	générale
+Cluster général	 positive regulation of kidney smooth muscle cell differentiation [GO:2000358]	générale
+Cluster général	antibacterial humoral response [GO:0019731]	générale
+Cluster général	 response to morphine [GO:0043278]	générale
+Cluster général	 hemopoiesis [GO:0030097]	générale
+Cluster général	 organ regeneration [GO:0031100]	générale
+Cluster général	 focal adhesion assembly [GO:0048041]	générale
+Cluster général	 intrinsic apoptotic signaling pathway [GO:0097193]	générale
+Cluster général	 positive regulation of smooth muscle cell migration [GO:0014911]	générale
+Cluster général	 response to steroid hormone [GO:0048545]	générale
+Cluster général	 negative regulation of fatty acid biosynthetic process [GO:0045717]	générale
+Cluster général	 cardiac chamber formation [GO:0003207]	générale
+Cluster général	 negative regulation of protein processing [GO:0010955]	générale
+Cluster général	 sarcomere organization [GO:0045214]	générale
+Cluster général	 membrane depolarization during Purkinje myocyte cell action potential [GO:0086047]	générale
+Cluster général	 regulation of mesenchymal cell proliferation involved in prostate gland development [GO:0060782]	générale
+Cluster général	aortic valve morphogenesis [GO:0003180]	générale
+Cluster général	 antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-independent [GO:0002480]	générale
+Cluster général	 ovulation from ovarian follicle [GO:0001542]	générale
+Cluster général	 thymus development [GO:0048538]	générale
+Cluster général	 positive regulation of ubiquitin protein ligase activity [GO:1904668]	générale
+Cluster général	 extrinsic apoptotic signaling pathway in absence of ligand [GO:0097192]	générale
+Cluster général	 positive regulation of macrophage cytokine production [GO:0060907]	générale
+Cluster général	 melanocyte proliferation [GO:0097325]	générale
+Cluster général	 positive regulation of programmed cell death [GO:0043068]	générale
+Cluster général	 cellular response to dopamine [GO:1903351]	générale
+Cluster général	 smooth muscle contraction [GO:0006939]	générale
+Cluster général	 positive regulation of endodeoxyribonuclease activity [GO:0032079]	générale
+Cluster général	 negative regulation of photoreceptor cell differentiation [GO:0046533]	générale
+Cluster général	 regulation of DNA methylation [GO:0044030]	générale
+Cluster général	 maintenance of chromatin silencing [GO:0006344]	générale
+Cluster général	 positive regulation of protein kinase C activity [GO:1900020]	générale
+Cluster général	 positive regulation of production of miRNAs involved in gene silencing by miRNA [GO:1903800]	générale
+Cluster général	 translation [GO:0006412]	générale
+ regulation of bile acid biosynthetic process [GO:0070857]	Sirtuin family, Class I subfamily	lien biologique
+ positive regulation of chromatin silencing [GO:0031937]	Sirtuin family, Class I subfamily	lien biologique
+ cellular response to drug [GO:0035690]	Potassium channel family, KQT (TC 1.A.1.15) subfamily, Kv7.1/KCNQ1 sub-subfamily	lien biologique
+ cellular response to drug [GO:0035690]	P53 family	lien biologique
+ sodium ion transmembrane transport [GO:0035725]	Sodium channel (TC 1.A.1.10) family, Nav1.5/SCN5A subfamily	lien biologique
+ membrane repolarization during ventricular cardiac muscle cell action potential [GO:0098915]	Potassium channel family, KQT (TC 1.A.1.15) subfamily, Kv7.1/KCNQ1 sub-subfamily	lien biologique
+ DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest [GO:0006977]	P53 family	lien biologique
+ regulation of B cell apoptotic process [GO:0002902]	P53 family	lien biologique
+ positive regulation of protein ubiquitination [GO:0031398]	Protein kinase superfamily, CAMK Ser/Thr protein kinase family	lien biologique
+ positive regulation of protein ubiquitination [GO:0031398]	Protein kinase superfamily, TKL Ser/Thr protein kinase family	lien biologique
+ negative regulation of cholesterol efflux [GO:0090370]	Hedgehog family	lien biologique
+ regulation of kidney size [GO:0035564]	Protein kinase superfamily, TKL Ser/Thr protein kinase family	lien biologique
+ heart looping [GO:0001947]	Wnt family	lien biologique
+ heart looping [GO:0001947]	Hedgehog family	lien biologique
+ heart looping [GO:0001947]	NOTCH family	lien biologique
+ heart looping [GO:0001947]	Intermediate filament family	lien biologique
+ epithelial-mesenchymal signaling involved in prostate gland development [GO:0060738]	Hedgehog family	lien biologique
+ meiotic spindle elongation [GO:0051232]	Phosphatase 2A regulatory subunit A family	lien biologique
+ striated muscle contraction [GO:0006941]	Protein kinase superfamily, CAMK Ser/Thr protein kinase family	lien biologique
+ cellular response to mechanical stimulus [GO:0071260]	Beta-catenin family	lien biologique
+ cellular response to mechanical stimulus [GO:0071260]	TGF-beta family	lien biologique
+ cellular response to mechanical stimulus [GO:0071260]	Protein kinase superfamily, AGC Ser/Thr protein kinase family, RAC subfamily	lien biologique
+ negative regulation of myeloid cell apoptotic process [GO:0033033]	Bcl-2 family	lien biologique
+ prostate gland growth [GO:0060736]	P53 family	lien biologique
+ positive regulation of protein kinase activity [GO:0045860]	Wnt family	lien biologique
+ positive regulation of protein kinase activity [GO:0045860]	Intermediate filament family	lien biologique
+ chromatin assembly [GO:0031497]	P53 family	lien biologique
+ negative regulation of protein binding [GO:0032091]	GOLGA2 family	lien biologique
+ negative regulation of protein binding [GO:0032091]	Protein kinase superfamily, TKL Ser/Thr protein kinase family	lien biologique
+ positive regulation of oxidative stress-induced neuron intrinsic apoptotic signaling pathway [GO:1903378]	RBR family, Parkin subfamily	lien biologique
+ axon guidance [GO:0007411]	Wnt family	lien biologique
+ axon guidance [GO:0007411]	Hedgehog family	lien biologique
+ axon guidance [GO:0007411]	Intermediate filament family	lien biologique
+ cell surface receptor signaling pathway [GO:0007166]	Protein kinase superfamily, Tyr protein kinase family, EGF receptor subfamily	lien biologique
+ multicellular structure septum development [GO:0080125]	Hedgehog family	lien biologique
+ cell aging [GO:0007569]	Bcl-2 family	lien biologique
+ cell aging [GO:0007569]	Sirtuin family, Class I subfamily	lien biologique
+ cell aging [GO:0007569]	P53 family	lien biologique
+ negative regulation of calcium ion transport into cytosol [GO:0010523]	Bcl-2 family	lien biologique
+long-chain fatty acid metabolic process [GO:0001676]	ATP-dependent AMP-binding enzyme family, Bubblegum subfamily	lien biologique
+ cerebellum development [GO:0021549]	Sodium channel (TC 1.A.1.10) family, Nav1.5/SCN5A subfamily	lien biologique
+ cerebellum development [GO:0021549]	P53 family	lien biologique
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent [GO:0002479]	MHC class I family	lien biologique
+ activation of MAPK activity [GO:0000187]	Wnt family	lien biologique
+ activation of MAPK activity [GO:0000187]	Intermediate filament family	lien biologique
+ dopamine metabolic process [GO:0042417]	RBR family, Parkin subfamily	lien biologique
+ regulation of neuron projection development [GO:0010975]	Protein kinase superfamily, AGC Ser/Thr protein kinase family, RAC subfamily	lien biologique
+ regulation of neuron projection development [GO:0010975]	P53 family	lien biologique
+ cloacal septation [GO:0060197]	TGF-beta family	lien biologique
+ negative regulation of gene expression [GO:0010629]	TGF-beta family	lien biologique
+ negative regulation of gene expression [GO:0010629]	Sirtuin family, Class I subfamily	lien biologique
+ negative regulation of gene expression [GO:0010629]	Beta-catenin family	lien biologique
+ negative regulation of gene expression [GO:0010629]	RBR family, Parkin subfamily	lien biologique
+ negative regulation of gene expression [GO:0010629]	Hedgehog family	lien biologique
+ negative regulation of gene expression [GO:0010629]	P53 family	lien biologique
+ negative regulation of gene expression [GO:0010629]	Protein kinase superfamily, AGC Ser/Thr protein kinase family, RAC subfamily	lien biologique
+ forebrain morphogenesis [GO:0048853]	P53 family	lien biologique
+ regulation of protein heterodimerization activity [GO:0043497]	Bcl-2 family	lien biologique
+ pattern specification process [GO:0007389]	Hedgehog family	lien biologique
+ fungiform papilla formation [GO:0061198]	Beta-catenin family	lien biologique
+ positive regulation of endothelial cell proliferation [GO:0001938]	TGF-beta family	lien biologique
+ positive regulation of endothelial cell proliferation [GO:0001938]	Wnt family	lien biologique
+ positive regulation of endothelial cell proliferation [GO:0001938]	Protein kinase superfamily, AGC Ser/Thr protein kinase family, RAC subfamily	lien biologique
+ positive regulation of endothelial cell proliferation [GO:0001938]	Sirtuin family, Class I subfamily	lien biologique
+ positive regulation of endothelial cell proliferation [GO:0001938]	Intermediate filament family	lien biologique
+ blood coagulation, intrinsic pathway [GO:0007597]	Multicopper oxidase family	lien biologique
+ eyelid development in camera-type eye [GO:0061029]	Protein kinase superfamily, Tyr protein kinase family, EGF receptor subfamily	lien biologique
+ synaptic transmission, glutamatergic [GO:0035249]	RBR family, Parkin subfamily	lien biologique
+ embryonic forelimb morphogenesis [GO:0035115]	Beta-catenin family	lien biologique
+ embryonic forelimb morphogenesis [GO:0035115]	Hedgehog family	lien biologique
+ regulation of membrane potential [GO:0042391]	Protein kinase superfamily, TKL Ser/Thr protein kinase family	lien biologique
+ epithelial cell differentiation involved in prostate gland development [GO:0060742]	Beta-catenin family	lien biologique
+ glomerulus development [GO:0032835]	Bcl-2 family	lien biologique
+ intrinsic apoptotic signaling pathway by p53 class mediator [GO:0072332]	P53 family	lien biologique
+ cerebellar granule cell precursor proliferation [GO:0021930]	Hedgehog family	lien biologique
+ endocardial cushion morphogenesis [GO:0003203]	NOTCH family	lien biologique
+ organ morphogenesis [GO:0009887]	Wnt family	lien biologique
+ organ morphogenesis [GO:0009887]	Bcl-2 family	lien biologique
+ organ morphogenesis [GO:0009887]	Intermediate filament family	lien biologique
+ positive regulation of ossification [GO:0045778]	TGF-beta family	lien biologique
+ positive regulation of ossification [GO:0045778]	Wnt family	lien biologique
+ positive regulation of ossification [GO:0045778]	Intermediate filament family	lien biologique
+ dorsal/ventral axis specification [GO:0009950]	Beta-catenin family	lien biologique
+ quinolinate biosynthetic process [GO:0019805]	3-HAO family	lien biologique
+ regulation of establishment of protein localization to plasma membrane [GO:0090003]	Nuclear hormone receptor family, NR3 subfamily	lien biologique
+ feeding behavior [GO:0007631]	G-protein coupled receptor 1 family	lien biologique
+ positive regulation of protein dephosphorylation [GO:0035307]	Phosphatase 2A regulatory subunit B56 family	lien biologique
+ protein stabilization [GO:0050821]	RBR family, Parkin subfamily	lien biologique
+ protein stabilization [GO:0050821]	P53 family	lien biologique
+ intracellular protein transport [GO:0006886]	14-3-3 family	lien biologique
+ regulation of phosphatidylinositol 3-kinase signaling [GO:0014066]	Protein kinase superfamily, AGC Ser/Thr protein kinase family, RAC subfamily	lien biologique
+ regulation of phosphatidylinositol 3-kinase signaling [GO:0014066]	Phosphatase 2A regulatory subunit B56 family	lien biologique
+ regulation of phosphatidylinositol 3-kinase signaling [GO:0014066]	Protein kinase superfamily, Tyr protein kinase family, EGF receptor subfamily	lien biologique
+ negative regulation of immature T cell proliferation in thymus [GO:0033088]	TGF-beta family	lien biologique
+ aging [GO:0007568]	Protein kinase superfamily, AGC Ser/Thr protein kinase family, RAC subfamily	lien biologique
+ aging [GO:0007568]	P53 family	lien biologique
+ T cell receptor signaling pathway [GO:0050852]	MHC class II family	lien biologique
+ T cell receptor signaling pathway [GO:0050852]	P53 family	lien biologique
+ osteoblast development [GO:0002076]	Hedgehog family	lien biologique
+ calcium-mediated signaling [GO:0019722]	Protein kinase superfamily, TKL Ser/Thr protein kinase family	lien biologique
+ positive regulation of protein localization to nucleus [GO:1900182]	Protein kinase superfamily, AGC Ser/Thr protein kinase family, RAC subfamily	lien biologique
+ visual learning [GO:0008542]	APP family	lien biologique
+ positive regulation of kidney smooth muscle cell differentiation [GO:2000358]	Hedgehog family	lien biologique
+antibacterial humoral response [GO:0019731]	MHC class I family	lien biologique
+ response to morphine [GO:0043278]	Phosphatase 2A regulatory subunit B family	lien biologique
+ hemopoiesis [GO:0030097]	Beta-catenin family	lien biologique
+ hemopoiesis [GO:0030097]	Bcl-2 family	lien biologique
+ organ regeneration [GO:0031100]	NOTCH family	lien biologique
+ focal adhesion assembly [GO:0048041]	Bcl-2 family	lien biologique
+ intrinsic apoptotic signaling pathway [GO:0097193]	P53 family	lien biologique
+ positive regulation of smooth muscle cell migration [GO:0014911]	Bcl-2 family	lien biologique
+ response to steroid hormone [GO:0048545]	Bcl-2 family	lien biologique
+ negative regulation of fatty acid biosynthetic process [GO:0045717]	Protein kinase superfamily, CAMK Ser/Thr protein kinase family	lien biologique
+ cardiac chamber formation [GO:0003207]	NOTCH family	lien biologique
+ negative regulation of protein processing [GO:0010955]	Protein kinase superfamily, TKL Ser/Thr protein kinase family	lien biologique
+ sarcomere organization [GO:0045214]	Protein kinase superfamily, CAMK Ser/Thr protein kinase family	lien biologique
+ membrane depolarization during Purkinje myocyte cell action potential [GO:0086047]	Sodium channel (TC 1.A.1.10) family, Nav1.5/SCN5A subfamily	lien biologique
+ regulation of mesenchymal cell proliferation involved in prostate gland development [GO:0060782]	Hedgehog family	lien biologique
+aortic valve morphogenesis [GO:0003180]	NOTCH family	lien biologique
+ antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-independent [GO:0002480]	MHC class I family	lien biologique
+ ovulation from ovarian follicle [GO:0001542]	Sirtuin family, Class I subfamily	lien biologique
+ thymus development [GO:0048538]	Beta-catenin family	lien biologique
+ thymus development [GO:0048538]	Hedgehog family	lien biologique
+ thymus development [GO:0048538]	Bcl-2 family	lien biologique
+ positive regulation of ubiquitin protein ligase activity [GO:1904668]	P53 family	lien biologique
+ extrinsic apoptotic signaling pathway in absence of ligand [GO:0097192]	Bcl-2 family	lien biologique
+ positive regulation of macrophage cytokine production [GO:0060907]	Wnt family	lien biologique
+ positive regulation of macrophage cytokine production [GO:0060907]	Intermediate filament family	lien biologique
+ melanocyte proliferation [GO:0097325]	Wnt family	lien biologique
+ melanocyte proliferation [GO:0097325]	Intermediate filament family	lien biologique
+ positive regulation of programmed cell death [GO:0043068]	Protein kinase superfamily, TKL Ser/Thr protein kinase family	lien biologique
+ cellular response to dopamine [GO:1903351]	RBR family, Parkin subfamily	lien biologique
+ cellular response to dopamine [GO:1903351]	Protein kinase superfamily, TKL Ser/Thr protein kinase family	lien biologique
+ smooth muscle contraction [GO:0006939]	G-protein coupled receptor 1 family	lien biologique
+ positive regulation of endodeoxyribonuclease activity [GO:0032079]	Protein kinase superfamily, AGC Ser/Thr protein kinase family, RAC subfamily	lien biologique
+ negative regulation of photoreceptor cell differentiation [GO:0046533]	NOTCH family	lien biologique
+ regulation of DNA methylation [GO:0044030]	Protein kinase superfamily, CAMK Ser/Thr protein kinase family	lien biologique
+ maintenance of chromatin silencing [GO:0006344]	Sirtuin family, Class I subfamily	lien biologique
+ positive regulation of protein kinase C activity [GO:1900020]	Wnt family	lien biologique
+ positive regulation of protein kinase C activity [GO:1900020]	Intermediate filament family	lien biologique
+ positive regulation of production of miRNAs involved in gene silencing by miRNA [GO:1903800]	Protein kinase superfamily, Tyr protein kinase family, EGF receptor subfamily	lien biologique
+ translation [GO:0006412]	Protein kinase superfamily, AGC Ser/Thr protein kinase family, RAC subfamily	lien biologique
+ translation [GO:0006412]	ABC transporter superfamily, ABCF family, EF3 subfamily	lien biologique
+Sirtuin family, Class I subfamily	Q96EB6	lien familiale
+Sirtuin family, Class I subfamily	Q96EB6	lien familiale
+Potassium channel family, KQT (TC 1.A.1.15) subfamily, Kv7.1/KCNQ1 sub-subfamily	P51787	lien familiale
+P53 family	P04637	lien familiale
+Sodium channel (TC 1.A.1.10) family, Nav1.5/SCN5A subfamily	Q14524	lien familiale
+Potassium channel family, KQT (TC 1.A.1.15) subfamily, Kv7.1/KCNQ1 sub-subfamily	P51787	lien familiale
+P53 family	P04637	lien familiale
+P53 family	P02340	lien familiale
+P53 family	P60484	lien familiale
+Protein kinase superfamily, CAMK Ser/Thr protein kinase family	P38398	lien familiale
+Protein kinase superfamily, TKL Ser/Thr protein kinase family	Q5S007	lien familiale
+Hedgehog family	Q62226	lien familiale
+Protein kinase superfamily, TKL Ser/Thr protein kinase family	Q5S007	lien familiale
+Wnt family	P22725	lien familiale
+Hedgehog family	Q62226	lien familiale
+NOTCH family	Q01705	lien familiale
+Intermediate filament family	Q6A162	lien familiale
+Hedgehog family	Q62226	lien familiale
+Phosphatase 2A regulatory subunit A family	Q76MZ3	lien familiale
+Protein kinase superfamily, CAMK Ser/Thr protein kinase family	Q8WZ42	lien familiale
+Beta-catenin family	Q02248	lien familiale
+Beta-catenin family	P35222	lien familiale
+TGF-beta family	P21275	lien familiale
+Protein kinase superfamily, AGC Ser/Thr protein kinase family, RAC subfamily	P31749	lien familiale
+Bcl-2 family	P10417	lien familiale
+P53 family	P60484	lien familiale
+Wnt family	P22725	lien familiale
+Intermediate filament family	Q6A162	lien familiale
+P53 family	P04637	lien familiale
+P53 family	P02340	lien familiale
+GOLGA2 family	Q08379	lien familiale
+Protein kinase superfamily, TKL Ser/Thr protein kinase family	Q5S007	lien familiale
+RBR family, Parkin subfamily	O60260	lien familiale
+Wnt family	P22725	lien familiale
+Hedgehog family	Q62226	lien familiale
+Intermediate filament family	Q6A162	lien familiale
+Protein kinase superfamily, Tyr protein kinase family, EGF receptor subfamily	P00533	lien familiale
+Hedgehog family	Q62226	lien familiale
+Bcl-2 family	P10417	lien familiale
+Sirtuin family, Class I subfamily	Q96EB6	lien familiale
+P53 family	P04637	lien familiale
+P53 family	P02340	lien familiale
+Bcl-2 family	P10417	lien familiale
+ATP-dependent AMP-binding enzyme family, Bubblegum subfamily	Q99PU5	lien familiale
+Sodium channel (TC 1.A.1.10) family, Nav1.5/SCN5A subfamily	Q14524	lien familiale
+P53 family	P02340	lien familiale
+MHC class I family	Q09160	lien familiale
+MHC class I family	P01889	lien familiale
+MHC class I family	P30461	lien familiale
+MHC class I family	P30466	lien familiale
+MHC class I family	Q95365	lien familiale
+MHC class I family	P30475	lien familiale
+MHC class I family	P30484	lien familiale
+MHC class I family	P30486	lien familiale
+MHC class I family	P30495	lien familiale
+MHC class I family	P10319	lien familiale
+MHC class I family	P04222	lien familiale
+MHC class I family	Q9TNN7	lien familiale
+MHC class I family	P30505	lien familiale
+MHC class I family	Q07000	lien familiale
+Wnt family	P22725	lien familiale
+Intermediate filament family	Q6A162	lien familiale
+RBR family, Parkin subfamily	O60260	lien familiale
+Protein kinase superfamily, AGC Ser/Thr protein kinase family, RAC subfamily	P31749	lien familiale
+P53 family	P60484	lien familiale
+TGF-beta family	P21275	lien familiale
+TGF-beta family	P21275	lien familiale
+Sirtuin family, Class I subfamily	Q96EB6	lien familiale
+Beta-catenin family	Q02248	lien familiale
+RBR family, Parkin subfamily	O60260	lien familiale
+Hedgehog family	Q62226	lien familiale
+P53 family	P02340	lien familiale
+Protein kinase superfamily, AGC Ser/Thr protein kinase family, RAC subfamily	P31749	lien familiale
+P53 family	P60484	lien familiale
+Bcl-2 family	P10417	lien familiale
+Hedgehog family	Q62226	lien familiale
+Beta-catenin family	Q02248	lien familiale
+Beta-catenin family	P35222	lien familiale
+TGF-beta family	P21275	lien familiale
+Wnt family	P22725	lien familiale
+Protein kinase superfamily, AGC Ser/Thr protein kinase family, RAC subfamily	P31749	lien familiale
+Sirtuin family, Class I subfamily	Q96EB6	lien familiale
+Intermediate filament family	Q6A162	lien familiale
+Multicopper oxidase family	P00451	lien familiale
+Protein kinase superfamily, Tyr protein kinase family, EGF receptor subfamily	P00533	lien familiale
+RBR family, Parkin subfamily	O60260	lien familiale
+Beta-catenin family	Q02248	lien familiale
+Beta-catenin family	P35222	lien familiale
+Hedgehog family	Q62226	lien familiale
+Protein kinase superfamily, TKL Ser/Thr protein kinase family	Q5S007	lien familiale
+Beta-catenin family	Q02248	lien familiale
+Beta-catenin family	P35222	lien familiale
+Bcl-2 family	P10417	lien familiale
+P53 family	P04637	lien familiale
+P53 family	P02340	lien familiale
+Hedgehog family	Q62226	lien familiale
+NOTCH family	Q01705	lien familiale
+Wnt family	P22725	lien familiale
+Bcl-2 family	P10417	lien familiale
+Intermediate filament family	Q6A162	lien familiale
+TGF-beta family	P21275	lien familiale
+Wnt family	P22725	lien familiale
+Intermediate filament family	Q6A162	lien familiale
+Beta-catenin family	Q02248	lien familiale
+Beta-catenin family	P35222	lien familiale
+3-HAO family	P46952	lien familiale
+Nuclear hormone receptor family, NR3 subfamily	P10275	lien familiale
+G-protein coupled receptor 1 family	P28335	lien familiale
+G-protein coupled receptor 1 family	P31387	lien familiale
+Phosphatase 2A regulatory subunit B56 family	Q15172	lien familiale
+RBR family, Parkin subfamily	O60260	lien familiale
+P53 family	P02340	lien familiale
+P53 family	P60484	lien familiale
+14-3-3 family	P68510	lien familiale
+Protein kinase superfamily, AGC Ser/Thr protein kinase family, RAC subfamily	P31749	lien familiale
+Phosphatase 2A regulatory subunit B56 family	Q13362	lien familiale
+Protein kinase superfamily, Tyr protein kinase family, EGF receptor subfamily	P00533	lien familiale
+TGF-beta family	P21275	lien familiale
+Protein kinase superfamily, AGC Ser/Thr protein kinase family, RAC subfamily	P31749	lien familiale
+P53 family	P60484	lien familiale
+MHC class II family	P20039	lien familiale
+MHC class II family	P01911	lien familiale
+P53 family	P60484	lien familiale
+Hedgehog family	Q62226	lien familiale
+Protein kinase superfamily, TKL Ser/Thr protein kinase family	Q5S007	lien familiale
+Protein kinase superfamily, AGC Ser/Thr protein kinase family, RAC subfamily	P31749	lien familiale
+APP family	P05067	lien familiale
+Hedgehog family	Q62226	lien familiale
+MHC class I family	P01892	lien familiale
+Phosphatase 2A regulatory subunit B family	P63151	lien familiale
+Beta-catenin family	Q02248	lien familiale
+Bcl-2 family	P10417	lien familiale
+NOTCH family	Q01705	lien familiale
+Bcl-2 family	P10417	lien familiale
+P53 family	P04637	lien familiale
+Bcl-2 family	P10417	lien familiale
+Bcl-2 family	P10417	lien familiale
+Protein kinase superfamily, CAMK Ser/Thr protein kinase family	P38398	lien familiale
+NOTCH family	Q01705	lien familiale
+Protein kinase superfamily, TKL Ser/Thr protein kinase family	Q5S007	lien familiale
+Protein kinase superfamily, CAMK Ser/Thr protein kinase family	Q8WZ42	lien familiale
+Sodium channel (TC 1.A.1.10) family, Nav1.5/SCN5A subfamily	Q14524	lien familiale
+Hedgehog family	Q62226	lien familiale
+NOTCH family	Q01705	lien familiale
+MHC class I family	P01892	lien familiale
+MHC class I family	Q09160	lien familiale
+MHC class I family	P01889	lien familiale
+MHC class I family	P30461	lien familiale
+MHC class I family	P30466	lien familiale
+MHC class I family	Q95365	lien familiale
+MHC class I family	P30475	lien familiale
+MHC class I family	P30484	lien familiale
+MHC class I family	P30486	lien familiale
+MHC class I family	P30495	lien familiale
+MHC class I family	P10319	lien familiale
+MHC class I family	P30499	lien familiale
+MHC class I family	P04222	lien familiale
+MHC class I family	Q9TNN7	lien familiale
+MHC class I family	P30505	lien familiale
+MHC class I family	Q07000	lien familiale
+Sirtuin family, Class I subfamily	Q96EB6	lien familiale
+Beta-catenin family	Q02248	lien familiale
+Beta-catenin family	P35222	lien familiale
+Hedgehog family	Q62226	lien familiale
+Bcl-2 family	P10417	lien familiale
+P53 family	P60484	lien familiale
+Bcl-2 family	P10417	lien familiale
+Wnt family	P22725	lien familiale
+Intermediate filament family	Q6A162	lien familiale
+Wnt family	P22725	lien familiale
+Intermediate filament family	Q6A162	lien familiale
+Protein kinase superfamily, TKL Ser/Thr protein kinase family	Q5S007	lien familiale
+RBR family, Parkin subfamily	O60260	lien familiale
+Protein kinase superfamily, TKL Ser/Thr protein kinase family	Q5S007	lien familiale
+G-protein coupled receptor 1 family	P34969	lien familiale
+Protein kinase superfamily, AGC Ser/Thr protein kinase family, RAC subfamily	P31749	lien familiale
+NOTCH family	Q01705	lien familiale
+Protein kinase superfamily, CAMK Ser/Thr protein kinase family	P38398	lien familiale
+Sirtuin family, Class I subfamily	Q96EB6	lien familiale
+Wnt family	P22725	lien familiale
+Intermediate filament family	Q6A162	lien familiale
+Protein kinase superfamily, Tyr protein kinase family, EGF receptor subfamily	P00533	lien familiale
+Protein kinase superfamily, AGC Ser/Thr protein kinase family, RAC subfamily	P31749	lien familiale
+ABC transporter superfamily, ABCF family, EF3 subfamily	Q8NE71	lien familiale

@@ -1,0 +1,11 @@
+Une visualisation d'une partie de nos résulats est proposé sous forme de graphe à l'aide du logiciel cytoscape.
+Sur la figure sont représentés sous forme de noeuds:
+- en rouge le cluster général contenant toutes les protéines 
+- en jaune les clusters de protéines spécifiques d'un processus biologique de la GO 
+- en vert les clusters spécifique d'une famille de protéine
+- en bleu les protéines (distinction organisme souris-homme à faire)
+
+sous forme d'arêtes:
+- en rouge subdivisions en processus biologique
+- en vert subdivisions en famille de protéines au sein d'un processus biologique
+- en bleu subdivisions en protéines d'une famille

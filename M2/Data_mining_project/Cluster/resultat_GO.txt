@@ -1,0 +1,361 @@
+Processus biologique	Protéine	Relation
+Cluster général	 negative regulation of synaptic transmission, GABAergic [GO:0032229]	générale
+Cluster général	 chromatin remodeling [GO:0006338]	générale
+Cluster général	 regulation of bile acid biosynthetic process [GO:0070857]	générale
+Cluster général	 positive regulation of chromatin silencing [GO:0031937]	générale
+Cluster général	 cellular response to drug [GO:0035690]	générale
+Cluster général	xenobiotic metabolic process [GO:0006805]	générale
+Cluster général	 cognition [GO:0050890]	générale
+Cluster général	 pyroptosis [GO:0070269]	générale
+Cluster général	 sodium ion transmembrane transport [GO:0035725]	générale
+Cluster général	 membrane repolarization during ventricular cardiac muscle cell action potential [GO:0098915]	générale
+Cluster général	 positive regulation of synapse assembly [GO:0051965]	générale
+Cluster général	 DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest [GO:0006977]	générale
+Cluster général	dendritic spine development [GO:0060996]	générale
+Cluster général	 positive regulation of interleukin-1 beta production [GO:0032731]	générale
+Cluster général	cytoplasmic sequestering of protein [GO:0051220]	générale
+Cluster général	 negative regulation of telomere maintenance via telomerase [GO:0032211]	générale
+Cluster général	 regulation of B cell apoptotic process [GO:0002902]	générale
+Cluster général	 positive regulation of protein ubiquitination [GO:0031398]	générale
+Cluster général	extrinsic apoptotic signaling pathway [GO:0097191]	générale
+Cluster général	 regulation of histone phosphorylation [GO:0033127]	générale
+Cluster général	 negative regulation of cholesterol efflux [GO:0090370]	générale
+Cluster général	 regulation of kidney size [GO:0035564]	générale
+Cluster général	 heart looping [GO:0001947]	générale
+Cluster général	 epithelial-mesenchymal signaling involved in prostate gland development [GO:0060738]	générale
+Cluster général	 negative regulation of blood pressure [GO:0045776]	générale
+Cluster général	 meiotic spindle elongation [GO:0051232]	générale
+Cluster général	 striated muscle contraction [GO:0006941]	générale
+Cluster général	 hemoglobin metabolic process [GO:0020027]	générale
+Cluster général	 regulation of GTPase activity [GO:0043087]	générale
+Cluster général	 cellular response to mechanical stimulus [GO:0071260]	générale
+Cluster général	 negative regulation of myeloid cell apoptotic process [GO:0033033]	générale
+Cluster général	 negative regulation of thymocyte aggregation [GO:2000399]	générale
+Cluster général	 prostate gland growth [GO:0060736]	générale
+Cluster général	 positive regulation of protein kinase activity [GO:0045860]	générale
+Cluster général	 negative regulation of acute inflammatory response [GO:0002674]	générale
+Cluster général	cellular iron ion homeostasis [GO:0006879]	générale
+Cluster général	 chromatin assembly [GO:0031497]	générale
+Cluster général	 negative regulation of protein binding [GO:0032091]	générale
+Cluster général	 positive regulation of oxidative stress-induced neuron intrinsic apoptotic signaling pathway [GO:1903378]	générale
+Cluster général	 G1/S transition of mitotic cell cycle [GO:0000082]	générale
+Cluster général	 axon guidance [GO:0007411]	générale
+Cluster général	 daunorubicin metabolic process [GO:0044597]	générale
+Cluster général	 long-chain fatty-acyl-CoA biosynthetic process [GO:0035338]	générale
+Cluster général	 cell surface receptor signaling pathway [GO:0007166]	générale
+Cluster général	 multicellular structure septum development [GO:0080125]	générale
+Cluster général	 cell aging [GO:0007569]	générale
+Cluster général	binding of sperm to zona pellucida [GO:0007339]	générale
+Cluster général	 negative regulation of calcium ion transport into cytosol [GO:0010523]	générale
+Cluster général	long-chain fatty acid metabolic process [GO:0001676]	générale
+Cluster général	 female pregnancy [GO:0007565]	générale
+Cluster général	 optic nerve morphogenesis [GO:0021631]	générale
+Cluster général	 cerebellum development [GO:0021549]	générale
+Cluster général	antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent [GO:0002479]	générale
+Cluster général	alanyl-tRNA aminoacylation [GO:0006419]	générale
+Cluster général	 activation of MAPK activity [GO:0000187]	générale
+Cluster général	adult feeding behavior [GO:0008343]	générale
+Cluster général	 dopamine metabolic process [GO:0042417]	générale
+Cluster général	 biosynthetic process [GO:0009058]	générale
+Cluster général	 regulation of neuron projection development [GO:0010975]	générale
+Cluster général	 cloacal septation [GO:0060197]	générale
+Cluster général	 negative regulation of gene expression [GO:0010629]	générale
+Cluster général	 pyrimidine nucleoside catabolic process [GO:0046135]	générale
+Cluster général	 regulation of smooth muscle contraction [GO:0006940]	générale
+Cluster général	 forebrain morphogenesis [GO:0048853]	générale
+Cluster général	 lipid storage [GO:0019915]	générale
+Cluster général	 regulation of ossification [GO:0030278]	générale
+Cluster général	 regulation of protein heterodimerization activity [GO:0043497]	générale
+Cluster général	 pattern specification process [GO:0007389]	générale
+Cluster général	 lymphatic endothelial cell differentiation [GO:0060836]	générale
+Cluster général	 fungiform papilla formation [GO:0061198]	générale
+Cluster général	 regulation of Wnt signaling pathway [GO:0030111]	générale
+Cluster général	 positive regulation of endothelial cell proliferation [GO:0001938]	générale
+Cluster général	 peroxisome fission [GO:0016559]	générale
+Cluster général	 blood coagulation, intrinsic pathway [GO:0007597]	générale
+Cluster général	 eyelid development in camera-type eye [GO:0061029]	générale
+Cluster général	 synaptic transmission, glutamatergic [GO:0035249]	générale
+Cluster général	 adenylate cyclase-modulating G-protein coupled receptor signaling pathway [GO:0007188]	générale
+Cluster général	aspartate biosynthetic process [GO:0006532]	générale
+Cluster général	 negative regulation of blood vessel remodeling [GO:0060313]	générale
+Cluster général	 embryonic forelimb morphogenesis [GO:0035115]	générale
+Cluster général	 regulation of membrane potential [GO:0042391]	générale
+Cluster général	 epithelial cell differentiation involved in prostate gland development [GO:0060742]	générale
+Cluster général	 glomerulus development [GO:0032835]	générale
+Cluster général	 glyoxylate metabolic process [GO:0046487]	générale
+Cluster général	 regulation of renal sodium excretion [GO:0035813]	générale
+Cluster général	 intrinsic apoptotic signaling pathway by p53 class mediator [GO:0072332]	générale
+Cluster général	 cerebellar granule cell precursor proliferation [GO:0021930]	générale
+Cluster général	dolichol-linked oligosaccharide biosynthetic process [GO:0006488]	générale
+Cluster général	 endocardial cushion morphogenesis [GO:0003203]	générale
+Cluster général	 organ morphogenesis [GO:0009887]	générale
+Cluster général	 vascular smooth muscle contraction [GO:0014829]	générale
+Cluster général	 positive regulation of ossification [GO:0045778]	générale
+Cluster général	ATP-dependent chromatin remodeling [GO:0043044]	générale
+Cluster général	 negative regulation of icosanoid secretion [GO:0032304]	générale
+Cluster général	 dorsal/ventral axis specification [GO:0009950]	générale
+Cluster général	 quinolinate biosynthetic process [GO:0019805]	générale
+Cluster général	 regulation of establishment of protein localization to plasma membrane [GO:0090003]	générale
+Cluster général	 feeding behavior [GO:0007631]	générale
+Cluster général	 positive regulation of protein dephosphorylation [GO:0035307]	générale
+ negative regulation of synaptic transmission, GABAergic [GO:0032229]	AA1R_MOUSE	rôle biologique
+ chromatin remodeling [GO:0006338]	ACL6B_HUMAN	rôle biologique
+ regulation of bile acid biosynthetic process [GO:0070857]	SIR1_HUMAN	rôle biologique
+ positive regulation of chromatin silencing [GO:0031937]	SIR1_HUMAN	rôle biologique
+ cellular response to drug [GO:0035690]	P53_HUMAN	rôle biologique
+ cellular response to drug [GO:0035690]	KCNQ1_HUMAN	rôle biologique
+ cellular response to drug [GO:0035690]	ADIPO_MOUSE	rôle biologique
+ cellular response to drug [GO:0035690]	ACER2_MOUSE	rôle biologique
+ cellular response to drug [GO:0035690]	AIM2_HUMAN	rôle biologique
+xenobiotic metabolic process [GO:0006805]	AK1CD_MOUSE	rôle biologique
+ cognition [GO:0050890]	ACHB2_MOUSE	rôle biologique
+ cognition [GO:0050890]	AA1R_MOUSE	rôle biologique
+ cognition [GO:0050890]	ACHA7_MOUSE	rôle biologique
+ cognition [GO:0050890]	ACM1_MOUSE	rôle biologique
+ cognition [GO:0050890]	ACHA4_MOUSE	rôle biologique
+ cognition [GO:0050890]	ACHA7_HUMAN	rôle biologique
+ pyroptosis [GO:0070269]	AIM2_HUMAN	rôle biologique
+ sodium ion transmembrane transport [GO:0035725]	SCN5A_HUMAN	rôle biologique
+ membrane repolarization during ventricular cardiac muscle cell action potential [GO:0098915]	KCNQ1_HUMAN	rôle biologique
+ positive regulation of synapse assembly [GO:0051965]	ADNP_HUMAN	rôle biologique
+ positive regulation of synapse assembly [GO:0051965]	AGRL1_HUMAN	rôle biologique
+ positive regulation of synapse assembly [GO:0051965]	AGRB2_HUMAN	rôle biologique
+ positive regulation of synapse assembly [GO:0051965]	AGRB3_MOUSE	rôle biologique
+ positive regulation of synapse assembly [GO:0051965]	AGRL1_MOUSE	rôle biologique
+ positive regulation of synapse assembly [GO:0051965]	AGRL3_MOUSE	rôle biologique
+ DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest [GO:0006977]	P53_HUMAN	rôle biologique
+ DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest [GO:0006977]	P53_MOUSE	rôle biologique
+dendritic spine development [GO:0060996]	ACSL4_MOUSE	rôle biologique
+ positive regulation of interleukin-1 beta production [GO:0032731]	AIM2_HUMAN	rôle biologique
+cytoplasmic sequestering of protein [GO:0051220]	1433B_MOUSE	rôle biologique
+ negative regulation of telomere maintenance via telomerase [GO:0032211]	ACD_HUMAN	rôle biologique
+ regulation of B cell apoptotic process [GO:0002902]	PTEN_HUMAN	rôle biologique
+ positive regulation of protein ubiquitination [GO:0031398]	LRRK2_HUMAN	rôle biologique
+ positive regulation of protein ubiquitination [GO:0031398]	BRCA1_HUMAN	rôle biologique
+ positive regulation of protein ubiquitination [GO:0031398]	AIMP2_MOUSE	rôle biologique
+extrinsic apoptotic signaling pathway [GO:0097191]	AF1Q_MOUSE	rôle biologique
+ regulation of histone phosphorylation [GO:0033127]	AKP8L_MOUSE	rôle biologique
+ negative regulation of cholesterol efflux [GO:0090370]	SHH_MOUSE	rôle biologique
+ regulation of kidney size [GO:0035564]	LRRK2_HUMAN	rôle biologique
+ heart looping [GO:0001947]	SHH_MOUSE	rôle biologique
+ heart looping [GO:0001947]	NOTC1_MOUSE	rôle biologique
+ heart looping [GO:0001947]	WNT5A_MOUSE	rôle biologique
+ heart looping [GO:0001947]	K1C40_HUMAN	rôle biologique
+ heart looping [GO:0001947]	AL1A2_MOUSE	rôle biologique
+ epithelial-mesenchymal signaling involved in prostate gland development [GO:0060738]	SHH_MOUSE	rôle biologique
+ negative regulation of blood pressure [GO:0045776]	ADIPO_MOUSE	rôle biologique
+ negative regulation of blood pressure [GO:0045776]	AA1R_MOUSE	rôle biologique
+ meiotic spindle elongation [GO:0051232]	2AAA_MOUSE	rôle biologique
+ meiotic spindle elongation [GO:0051232]	2AAA_HUMAN	rôle biologique
+ striated muscle contraction [GO:0006941]	TITIN_HUMAN	rôle biologique
+ hemoglobin metabolic process [GO:0020027]	ADDA_MOUSE	rôle biologique
+ hemoglobin metabolic process [GO:0020027]	ADDA_HUMAN	rôle biologique
+ regulation of GTPase activity [GO:0043087]	AGRIN_MOUSE	rôle biologique
+ regulation of GTPase activity [GO:0043087]	AJUBA_MOUSE	rôle biologique
+ cellular response to mechanical stimulus [GO:0071260]	CTNB1_MOUSE	rôle biologique
+ cellular response to mechanical stimulus [GO:0071260]	CTNB1_HUMAN	rôle biologique
+ cellular response to mechanical stimulus [GO:0071260]	BMP4_MOUSE	rôle biologique
+ cellular response to mechanical stimulus [GO:0071260]	AKT1_HUMAN	rôle biologique
+ negative regulation of myeloid cell apoptotic process [GO:0033033]	BCL2_MOUSE	rôle biologique
+ negative regulation of thymocyte aggregation [GO:2000399]	ADAM8_MOUSE	rôle biologique
+ prostate gland growth [GO:0060736]	PTEN_HUMAN	rôle biologique
+ positive regulation of protein kinase activity [GO:0045860]	WNT5A_MOUSE	rôle biologique
+ positive regulation of protein kinase activity [GO:0045860]	K1C40_HUMAN	rôle biologique
+ negative regulation of acute inflammatory response [GO:0002674]	AA1R_MOUSE	rôle biologique
+cellular iron ion homeostasis [GO:0006879]	ACOC_MOUSE	rôle biologique
+ chromatin assembly [GO:0031497]	P53_HUMAN	rôle biologique
+ chromatin assembly [GO:0031497]	P53_MOUSE	rôle biologique
+ negative regulation of protein binding [GO:0032091]	LRRK2_HUMAN	rôle biologique
+ negative regulation of protein binding [GO:0032091]	GOGA2_HUMAN	rôle biologique
+ negative regulation of protein binding [GO:0032091]	ADNP_HUMAN	rôle biologique
+ positive regulation of oxidative stress-induced neuron intrinsic apoptotic signaling pathway [GO:1903378]	PRKN2_HUMAN	rôle biologique
+ G1/S transition of mitotic cell cycle [GO:0000082]	4EBP1_MOUSE	rôle biologique
+ G1/S transition of mitotic cell cycle [GO:0000082]	ACV1B_MOUSE	rôle biologique
+ G1/S transition of mitotic cell cycle [GO:0000082]	ACVR1_HUMAN	rôle biologique
+ axon guidance [GO:0007411]	SHH_MOUSE	rôle biologique
+ axon guidance [GO:0007411]	WNT5A_MOUSE	rôle biologique
+ axon guidance [GO:0007411]	K1C40_HUMAN	rôle biologique
+ daunorubicin metabolic process [GO:0044597]	AK1BA_HUMAN	rôle biologique
+ long-chain fatty-acyl-CoA biosynthetic process [GO:0035338]	ACBG2_HUMAN	rôle biologique
+ long-chain fatty-acyl-CoA biosynthetic process [GO:0035338]	ACOT1_HUMAN	rôle biologique
+ long-chain fatty-acyl-CoA biosynthetic process [GO:0035338]	ACOT2_HUMAN	rôle biologique
+ long-chain fatty-acyl-CoA biosynthetic process [GO:0035338]	ACSL1_HUMAN	rôle biologique
+ long-chain fatty-acyl-CoA biosynthetic process [GO:0035338]	ACSL6_HUMAN	rôle biologique
+ long-chain fatty-acyl-CoA biosynthetic process [GO:0035338]	ACO15_HUMAN	rôle biologique
+ long-chain fatty-acyl-CoA biosynthetic process [GO:0035338]	ACSL3_HUMAN	rôle biologique
+ cell surface receptor signaling pathway [GO:0007166]	EGFR_HUMAN	rôle biologique
+ cell surface receptor signaling pathway [GO:0007166]	AGRG3_MOUSE	rôle biologique
+ cell surface receptor signaling pathway [GO:0007166]	AGRL1_HUMAN	rôle biologique
+ cell surface receptor signaling pathway [GO:0007166]	AGTR2_MOUSE	rôle biologique
+ cell surface receptor signaling pathway [GO:0007166]	ACV1B_MOUSE	rôle biologique
+ cell surface receptor signaling pathway [GO:0007166]	AGRA2_MOUSE	rôle biologique
+ cell surface receptor signaling pathway [GO:0007166]	AGRG1_HUMAN	rôle biologique
+ cell surface receptor signaling pathway [GO:0007166]	AGRG3_HUMAN	rôle biologique
+ cell surface receptor signaling pathway [GO:0007166]	AGRL1_MOUSE	rôle biologique
+ cell surface receptor signaling pathway [GO:0007166]	AGRL3_MOUSE	rôle biologique
+ multicellular structure septum development [GO:0080125]	SHH_MOUSE	rôle biologique
+ cell aging [GO:0007569]	P53_HUMAN	rôle biologique
+ cell aging [GO:0007569]	SIR1_HUMAN	rôle biologique
+ cell aging [GO:0007569]	BCL2_MOUSE	rôle biologique
+ cell aging [GO:0007569]	P53_MOUSE	rôle biologique
+binding of sperm to zona pellucida [GO:0007339]	ADM1A_MOUSE	rôle biologique
+binding of sperm to zona pellucida [GO:0007339]	ADPRM_MOUSE	rôle biologique
+binding of sperm to zona pellucida [GO:0007339]	ADA21_HUMAN	rôle biologique
+ negative regulation of calcium ion transport into cytosol [GO:0010523]	BCL2_MOUSE	rôle biologique
+long-chain fatty acid metabolic process [GO:0001676]	ACBG1_MOUSE	rôle biologique
+ female pregnancy [GO:0007565]	ADA2C_HUMAN	rôle biologique
+ female pregnancy [GO:0007565]	ADA32_HUMAN	rôle biologique
+ female pregnancy [GO:0007565]	ADR2_MOUSE	rôle biologique
+ female pregnancy [GO:0007565]	ADA2A_HUMAN	rôle biologique
+ female pregnancy [GO:0007565]	ADML_HUMAN	rôle biologique
+ optic nerve morphogenesis [GO:0021631]	ACHB2_MOUSE	rôle biologique
+ cerebellum development [GO:0021549]	SCN5A_HUMAN	rôle biologique
+ cerebellum development [GO:0021549]	P53_MOUSE	rôle biologique
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent [GO:0002479]	1A80_HUMAN	rôle biologique
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent [GO:0002479]	1B07_HUMAN	rôle biologique
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent [GO:0002479]	1B13_HUMAN	rôle biologique
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent [GO:0002479]	1B18_HUMAN	rôle biologique
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent [GO:0002479]	1B38_HUMAN	rôle biologique
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent [GO:0002479]	1B39_HUMAN	rôle biologique
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent [GO:0002479]	1B46_HUMAN	rôle biologique
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent [GO:0002479]	1B48_HUMAN	rôle biologique
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent [GO:0002479]	1B56_HUMAN	rôle biologique
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent [GO:0002479]	1B58_HUMAN	rôle biologique
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent [GO:0002479]	1C03_HUMAN	rôle biologique
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent [GO:0002479]	1C05_HUMAN	rôle biologique
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent [GO:0002479]	1C08_HUMAN	rôle biologique
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent [GO:0002479]	1C15_HUMAN	rôle biologique
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent [GO:0002479]	1A23_HUMAN	rôle biologique
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent [GO:0002479]	1A24_HUMAN	rôle biologique
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent [GO:0002479]	1A30_HUMAN	rôle biologique
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent [GO:0002479]	1A34_HUMAN	rôle biologique
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent [GO:0002479]	1B37_HUMAN	rôle biologique
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent [GO:0002479]	1B42_HUMAN	rôle biologique
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent [GO:0002479]	1B45_HUMAN	rôle biologique
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent [GO:0002479]	1B53_HUMAN	rôle biologique
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent [GO:0002479]	1B59_HUMAN	rôle biologique
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent [GO:0002479]	1B82_HUMAN	rôle biologique
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent [GO:0002479]	1C02_HUMAN	rôle biologique
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent [GO:0002479]	1C04_HUMAN	rôle biologique
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent [GO:0002479]	1C06_HUMAN	rôle biologique
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent [GO:0002479]	1C12_HUMAN	rôle biologique
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent [GO:0002479]	1C18_HUMAN	rôle biologique
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent [GO:0002479]	1A01_HUMAN	rôle biologique
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent [GO:0002479]	1A29_HUMAN	rôle biologique
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent [GO:0002479]	1A33_HUMAN	rôle biologique
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent [GO:0002479]	1A66_HUMAN	rôle biologique
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent [GO:0002479]	1B35_HUMAN	rôle biologique
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent [GO:0002479]	1B40_HUMAN	rôle biologique
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent [GO:0002479]	1B44_HUMAN	rôle biologique
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent [GO:0002479]	1B50_HUMAN	rôle biologique
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent [GO:0002479]	1B54_HUMAN	rôle biologique
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent [GO:0002479]	1B67_HUMAN	rôle biologique
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent [GO:0002479]	1B78_HUMAN	rôle biologique
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent [GO:0002479]	1C07_HUMAN	rôle biologique
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent [GO:0002479]	1C14_HUMAN	rôle biologique
+alanyl-tRNA aminoacylation [GO:0006419]	AASD1_MOUSE	rôle biologique
+ activation of MAPK activity [GO:0000187]	WNT5A_MOUSE	rôle biologique
+ activation of MAPK activity [GO:0000187]	K1C40_HUMAN	rôle biologique
+adult feeding behavior [GO:0008343]	AGRP_HUMAN	rôle biologique
+ dopamine metabolic process [GO:0042417]	PRKN2_HUMAN	rôle biologique
+ biosynthetic process [GO:0009058]	AADAT_MOUSE	rôle biologique
+ regulation of neuron projection development [GO:0010975]	PTEN_HUMAN	rôle biologique
+ regulation of neuron projection development [GO:0010975]	AKT1_HUMAN	rôle biologique
+ cloacal septation [GO:0060197]	BMP4_MOUSE	rôle biologique
+ negative regulation of gene expression [GO:0010629]	CTNB1_MOUSE	rôle biologique
+ negative regulation of gene expression [GO:0010629]	SHH_MOUSE	rôle biologique
+ negative regulation of gene expression [GO:0010629]	SIR1_HUMAN	rôle biologique
+ negative regulation of gene expression [GO:0010629]	BMP4_MOUSE	rôle biologique
+ negative regulation of gene expression [GO:0010629]	P53_MOUSE	rôle biologique
+ negative regulation of gene expression [GO:0010629]	AKT1_HUMAN	rôle biologique
+ negative regulation of gene expression [GO:0010629]	PRKN2_HUMAN	rôle biologique
+ negative regulation of gene expression [GO:0010629]	ADNP_HUMAN	rôle biologique
+ negative regulation of gene expression [GO:0010629]	ACACB_HUMAN	rôle biologique
+ negative regulation of gene expression [GO:0010629]	ACVL1_HUMAN	rôle biologique
+ negative regulation of gene expression [GO:0010629]	ACV1B_MOUSE	rôle biologique
+ pyrimidine nucleoside catabolic process [GO:0046135]	5NT1A_HUMAN	rôle biologique
+ regulation of smooth muscle contraction [GO:0006940]	ADA2B_MOUSE	rôle biologique
+ regulation of smooth muscle contraction [GO:0006940]	ACHA3_MOUSE	rôle biologique
+ regulation of smooth muscle contraction [GO:0006940]	ACHA3_HUMAN	rôle biologique
+ regulation of smooth muscle contraction [GO:0006940]	ACHB4_HUMAN	rôle biologique
+ regulation of smooth muscle contraction [GO:0006940]	ADA2A_MOUSE	rôle biologique
+ forebrain morphogenesis [GO:0048853]	PTEN_HUMAN	rôle biologique
+ lipid storage [GO:0019915]	ABHD4_MOUSE	rôle biologique
+ lipid storage [GO:0019915]	ACV1C_HUMAN	rôle biologique
+ regulation of ossification [GO:0030278]	ACVR1_HUMAN	rôle biologique
+ regulation of protein heterodimerization activity [GO:0043497]	BCL2_MOUSE	rôle biologique
+ pattern specification process [GO:0007389]	SHH_MOUSE	rôle biologique
+ lymphatic endothelial cell differentiation [GO:0060836]	ACVL1_HUMAN	rôle biologique
+ fungiform papilla formation [GO:0061198]	CTNB1_MOUSE	rôle biologique
+ fungiform papilla formation [GO:0061198]	CTNB1_HUMAN	rôle biologique
+ regulation of Wnt signaling pathway [GO:0030111]	2AAA_HUMAN	rôle biologique
+ positive regulation of endothelial cell proliferation [GO:0001938]	WNT5A_MOUSE	rôle biologique
+ positive regulation of endothelial cell proliferation [GO:0001938]	K1C40_HUMAN	rôle biologique
+ positive regulation of endothelial cell proliferation [GO:0001938]	SIR1_HUMAN	rôle biologique
+ positive regulation of endothelial cell proliferation [GO:0001938]	BMP4_MOUSE	rôle biologique
+ positive regulation of endothelial cell proliferation [GO:0001938]	AKT1_HUMAN	rôle biologique
+ positive regulation of endothelial cell proliferation [GO:0001938]	ACVL1_HUMAN	rôle biologique
+ positive regulation of endothelial cell proliferation [GO:0001938]	A2GL_HUMAN	rôle biologique
+ peroxisome fission [GO:0016559]	ACOT8_MOUSE	rôle biologique
+ peroxisome fission [GO:0016559]	ACOX1_HUMAN	rôle biologique
+ blood coagulation, intrinsic pathway [GO:0007597]	FA8_HUMAN	rôle biologique
+ eyelid development in camera-type eye [GO:0061029]	EGFR_HUMAN	rôle biologique
+ synaptic transmission, glutamatergic [GO:0035249]	PRKN2_HUMAN	rôle biologique
+ adenylate cyclase-modulating G-protein coupled receptor signaling pathway [GO:0007188]	ADCY2_HUMAN	rôle biologique
+ adenylate cyclase-modulating G-protein coupled receptor signaling pathway [GO:0007188]	ADCY4_MOUSE	rôle biologique
+ adenylate cyclase-modulating G-protein coupled receptor signaling pathway [GO:0007188]	ADRB3_HUMAN	rôle biologique
+aspartate biosynthetic process [GO:0006532]	AATC2_MOUSE	rôle biologique
+ negative regulation of blood vessel remodeling [GO:0060313]	ABR_HUMAN	rôle biologique
+ embryonic forelimb morphogenesis [GO:0035115]	CTNB1_MOUSE	rôle biologique
+ embryonic forelimb morphogenesis [GO:0035115]	SHH_MOUSE	rôle biologique
+ embryonic forelimb morphogenesis [GO:0035115]	CTNB1_HUMAN	rôle biologique
+ embryonic forelimb morphogenesis [GO:0035115]	AL1A2_MOUSE	rôle biologique
+ regulation of membrane potential [GO:0042391]	LRRK2_HUMAN	rôle biologique
+ regulation of membrane potential [GO:0042391]	ACHA_HUMAN	rôle biologique
+ regulation of membrane potential [GO:0042391]	ACHB2_MOUSE	rôle biologique
+ regulation of membrane potential [GO:0042391]	ACHE_MOUSE	rôle biologique
+ regulation of membrane potential [GO:0042391]	ABCB5_HUMAN	rôle biologique
+ regulation of membrane potential [GO:0042391]	ACHB_MOUSE	rôle biologique
+ regulation of membrane potential [GO:0042391]	ACTN2_MOUSE	rôle biologique
+ regulation of membrane potential [GO:0042391]	ACHA3_MOUSE	rôle biologique
+ regulation of membrane potential [GO:0042391]	ACHA7_MOUSE	rôle biologique
+ regulation of membrane potential [GO:0042391]	ACHA_MOUSE	rôle biologique
+ regulation of membrane potential [GO:0042391]	ACHA3_HUMAN	rôle biologique
+ regulation of membrane potential [GO:0042391]	ACHA4_MOUSE	rôle biologique
+ regulation of membrane potential [GO:0042391]	ACHD_HUMAN	rôle biologique
+ regulation of membrane potential [GO:0042391]	ACL10_MOUSE	rôle biologique
+ regulation of membrane potential [GO:0042391]	ACL7A_HUMAN	rôle biologique
+ epithelial cell differentiation involved in prostate gland development [GO:0060742]	CTNB1_MOUSE	rôle biologique
+ epithelial cell differentiation involved in prostate gland development [GO:0060742]	CTNB1_HUMAN	rôle biologique
+ glomerulus development [GO:0032835]	BCL2_MOUSE	rôle biologique
+ glyoxylate metabolic process [GO:0046487]	ACPM_HUMAN	rôle biologique
+ regulation of renal sodium excretion [GO:0035813]	AGTR1_HUMAN	rôle biologique
+ regulation of renal sodium excretion [GO:0035813]	AHDC1_MOUSE	rôle biologique
+ intrinsic apoptotic signaling pathway by p53 class mediator [GO:0072332]	P53_HUMAN	rôle biologique
+ intrinsic apoptotic signaling pathway by p53 class mediator [GO:0072332]	P53_MOUSE	rôle biologique
+ cerebellar granule cell precursor proliferation [GO:0021930]	SHH_MOUSE	rôle biologique
+dolichol-linked oligosaccharide biosynthetic process [GO:0006488]	AG10A_HUMAN	rôle biologique
+dolichol-linked oligosaccharide biosynthetic process [GO:0006488]	AG14P_HUMAN	rôle biologique
+ endocardial cushion morphogenesis [GO:0003203]	NOTC1_MOUSE	rôle biologique
+ endocardial cushion morphogenesis [GO:0003203]	ACVL1_HUMAN	rôle biologique
+ endocardial cushion morphogenesis [GO:0003203]	ACVR1_HUMAN	rôle biologique
+ organ morphogenesis [GO:0009887]	WNT5A_MOUSE	rôle biologique
+ organ morphogenesis [GO:0009887]	K1C40_HUMAN	rôle biologique
+ organ morphogenesis [GO:0009887]	BCL2_MOUSE	rôle biologique
+ vascular smooth muscle contraction [GO:0014829]	ACTA_MOUSE	rôle biologique
+ vascular smooth muscle contraction [GO:0014829]	ACTA_HUMAN	rôle biologique
+ positive regulation of ossification [GO:0045778]	WNT5A_MOUSE	rôle biologique
+ positive regulation of ossification [GO:0045778]	K1C40_HUMAN	rôle biologique
+ positive regulation of ossification [GO:0045778]	BMP4_MOUSE	rôle biologique
+ATP-dependent chromatin remodeling [GO:0043044]	ACTB_HUMAN	rôle biologique
+ATP-dependent chromatin remodeling [GO:0043044]	ACTB_MOUSE	rôle biologique
+ negative regulation of icosanoid secretion [GO:0032304]	AGTR2_MOUSE	rôle biologique
+ dorsal/ventral axis specification [GO:0009950]	CTNB1_MOUSE	rôle biologique
+ dorsal/ventral axis specification [GO:0009950]	CTNB1_HUMAN	rôle biologique
+ quinolinate biosynthetic process [GO:0019805]	3HAO_HUMAN	rôle biologique
+ regulation of establishment of protein localization to plasma membrane [GO:0090003]	ANDR_HUMAN	rôle biologique
+ feeding behavior [GO:0007631]	5HT2C_HUMAN	rôle biologique
+ feeding behavior [GO:0007631]	5HT5B_MOUSE	rôle biologique
+ feeding behavior [GO:0007631]	AGRP_HUMAN	rôle biologique
+ positive regulation of protein dephosphorylation [GO:0035307]	2A5A_HUMAN	rôle biologique
+ positive regulation of protein dephosphorylation [GO:0035307]	AA1R_MOUSE	rôle biologique

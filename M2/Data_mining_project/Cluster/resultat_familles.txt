@@ -1,0 +1,672 @@
+Famille	Protéine	Relation
+Cluster général	Protein kinase superfamily, CAMK Ser/Thr protein kinase family, SNF1 subfamily	générale
+Cluster général	3-hydroxyisobutyrate dehydrogenase family	générale
+Cluster général	MLLT11 family	générale
+Cluster général	Metallophosphoesterase superfamily, Purple acid phosphatase family	générale
+Cluster général	G-protein coupled receptor 1 family, Muscarinic acetylcholine receptor subfamily, CHRM3 sub-subfamily	générale
+Cluster général	Multicopper oxidase family	générale
+Cluster général	Nuclear hormone receptor family, NR3 subfamily	générale
+Cluster général	AB hydrolase superfamily, ABHD17 family	générale
+Cluster général	ABC transporter superfamily, ABCD family, Peroxisomal fatty acyl CoA transporter (TC 3.A.1.203) subfamily	générale
+Cluster général	Alpha-actinin family	générale
+Cluster général	AB hydrolase superfamily, ABHD16 family	générale
+Cluster général	Bcl-2 family	générale
+Cluster général	5'-nucleotidase type 3 family	générale
+Cluster général	Acylphosphatase family	générale
+Cluster général	G-protein coupled receptor 1 family, Muscarinic acetylcholine receptor subfamily, CHRM1 sub-subfamily	générale
+Cluster général	G-protein coupled receptor 1 family, Adrenergic receptor subfamily, ADRA1A sub-subfamily	générale
+Cluster général	ADRM1 family	générale
+Cluster général	G-protein coupled receptor 1 family, Adrenergic receptor subfamily, ADRB3 sub-subfamily	générale
+Cluster général	Pyrimidine 5'-nucleotidase family	générale
+Cluster général	Zyxin/ajuba family	générale
+Cluster général	ADAD family	générale
+Cluster général	G-protein coupled receptor 1 family, Adrenergic receptor subfamily, ADRB1 sub-subfamily	générale
+Cluster général	Sodium channel (TC 1.A.1.10) family, Nav1.5/SCN5A subfamily	générale
+Cluster général	G-protein coupled receptor 1 family, Adrenergic receptor subfamily, ADRA1B sub-subfamily	générale
+Cluster général	ADIPOR family	générale
+Cluster général	G-protein coupled receptor 1 family, Adrenergic receptor subfamily, ADRA2B sub-subfamily	générale
+Cluster général	AAA ATPase family; Peptidase M41 family	générale
+Cluster général	Cytidine and deoxycytidylate deaminase family, ADAT2 subfamily	générale
+Cluster général	Intermediate filament family	générale
+Cluster général	Ligand-gated ion channel (TC 1.A.9) family, 5-hydroxytryptamine receptor (TC 1.A.9.2) subfamily, HTR3A sub-subfamily	générale
+Cluster général	ESF2/ABP1 family	générale
+Cluster général	Dicarboxylate/amino acid:cation symporter (DAACS) (TC 2.A.23) family, SLC1A5 subfamily	générale
+Cluster général	G-protein coupled receptor 2 family, LN-TM7 subfamily	générale
+Cluster général	Protein kinase superfamily, ADCK protein kinase family	générale
+Cluster général	ABC transporter superfamily, ABCB family, Multidrug resistance exporter (TC 3.A.1.201) subfamily	générale
+Cluster général	Ligand-gated ion channel (TC 1.A.9) family, Acetylcholine receptor (TC 1.A.9.1) subfamily, Alpha-1/CHRNA1 sub-subfamily	générale
+Cluster général	Ligand-gated ion channel (TC 1.A.9) family, Acetylcholine receptor (TC 1.A.9.1) subfamily, Beta-1/CHRNB1 sub-subfamily	générale
+Cluster général	Ligand-gated ion channel (TC 1.A.9) family, Acetylcholine receptor (TC 1.A.9.1) subfamily, Alpha-7/CHRNA7 sub-subfamily	générale
+Cluster général	ADPRibase-Mn family	générale
+Cluster général	Peptidase M2 family	générale
+Cluster général	ABC transporter superfamily	générale
+Cluster général	Akirin family	générale
+Cluster général	ALB/AFP/VDB family	générale
+Cluster général	G-protein coupled receptor 1 family, Adrenergic receptor subfamily, ADRA2C sub-subfamily	générale
+Cluster général	ABI family	générale
+Cluster général	Protein kinase superfamily, Tyr protein kinase family	générale
+Cluster général	3-HAO family	générale
+Cluster général	Peptidase C2 family	générale
+Cluster général	ABC transporter superfamily, ABCC family, Conjugate transporter (TC 3.A.1.208) subfamily	générale
+Cluster général	G-protein coupled receptor 1 family	générale
+Cluster général	MHC class I family	générale
+Cluster général	AB hydrolase superfamily, ABHD14 family	générale
+Cluster général	Hedgehog family	générale
+Cluster général	THEM4/THEM5 thioesterase family	générale
+Cluster général	ATP-dependent AMP-binding enzyme family, Bubblegum subfamily	générale
+Cluster général	Ligand-gated ion channel (TC 1.A.9) family, Acetylcholine receptor (TC 1.A.9.1) subfamily, Epsilon/CHRNE sub-subfamily	générale
+Cluster général	Fatty acid desaturase type 1 family	générale
+Cluster général	Cytidine and deoxycytidylate deaminase family	générale
+Cluster général	Protein kinase superfamily, TKL Ser/Thr protein kinase family, TGFB receptor subfamily	générale
+Cluster général	APP family	générale
+Cluster général	Type-B carboxylesterase/lipase family	générale
+Cluster général	Thioesterase PaaI family	générale
+Cluster général	5'(3')-deoxyribonucleotidase family	générale
+Cluster général	Acyl coenzyme A hydrolase family	générale
+Cluster général	AB hydrolase superfamily, AB hydrolase 4 family	générale
+Cluster général	Protein kinase superfamily, CAMK Ser/Thr protein kinase family	générale
+Cluster général	Ligand-gated ion channel (TC 1.A.9) family, Acetylcholine receptor (TC 1.A.9.1) subfamily, Beta-4/CHRNB4 sub-subfamily	générale
+Cluster général	Adipolin/erythroferrone family	générale
+Cluster général	Beta-catenin family	générale
+Cluster général	Protein kinase superfamily, Tyr protein kinase family, ABL subfamily	générale
+Cluster général	Actin family, ARP1 subfamily	générale
+Cluster général	P53 family	générale
+Cluster général	5'-AMP-activated protein kinase gamma subunit family	générale
+Cluster général	Protein kinase superfamily, AGC Ser/Thr protein kinase family, RAC subfamily	générale
+Cluster général	Ligand-gated ion channel (TC 1.A.9) family, Acetylcholine receptor (TC 1.A.9.1) subfamily, Alpha-2/CHRNA2 sub-subfamily	générale
+Cluster général	G-protein coupled receptor 1 family, Adrenergic receptor subfamily, ADRA1D sub-subfamily	générale
+Cluster général	Ligand-gated ion channel (TC 1.A.9) family, Acetylcholine receptor (TC 1.A.9.1) subfamily, Alpha-4/CHRNA4 sub-subfamily	générale
+Cluster général	ALG10 glucosyltransferase family	générale
+Cluster général	C/M/P thioester hydrolase family	générale
+Cluster général	RBR family, Parkin subfamily	générale
+Cluster général	AF4 family	générale
+Cluster général	ATP-dependent AMP-binding enzyme family	générale
+Cluster général	Class-II aminoacyl-tRNA synthetase family, Alax-L subfamily	générale
+Cluster général	Peptidase M20A family	générale
+Cluster général	ADAT1 family	générale
+Cluster général	SLC3A transporter family	générale
+Cluster général	Costars family	générale
+Cluster général	Class-I pyridoxal-phosphate-dependent aminotransferase family	générale
+Cluster général	'GDXG' lipolytic enzyme family	générale
+Cluster général	Wnt family	générale
+Cluster général	5'-nucleotidase family	générale
+Cluster général	Zinc-containing alcohol dehydrogenase family, Class-I subfamily	générale
+Cluster général	ABC transporter superfamily, ABCB family, Mitochondrial peptide exporter (TC 3.A.1.212) subfamily	générale
+Cluster général	Peptidase S1 family	générale
+Cluster général	AAED1 family	générale
+Cluster général	AATF family	générale
+Cluster général	Peptidase S9C family	générale
+Cluster général	Acyl-CoA dehydrogenase family	générale
+Cluster général	MRL family	générale
+Cluster général	Protein kinase superfamily, Ser/Thr protein kinase family	générale
+Cluster général	WD repeat ATG16 family	générale
+Cluster général	Centaurin gamma-like family	générale
+Cluster général	ADP-dependent glucokinase family	générale
+Cluster général	Mitochondrial carrier (TC 2.A.29) family	générale
+Cluster général	Aldolase class II family, Adducin subfamily	générale
+Cluster général	Phosphatase 2A regulatory subunit B family	générale
+Cluster général	G-protein coupled receptor 1 family, Atypical chemokine receptor subfamily	générale
+Cluster général	Protease inhibitor I39 (alpha-2-macroglobulin) family	générale
+Cluster général	Protein kinase superfamily, Tyr protein kinase family, EGF receptor subfamily	générale
+Cluster général	Serine esterase family	générale
+Cluster général	HIN-200 family	générale
+Cluster général	AB hydrolase superfamily	générale
+Cluster général	3-beta-HSD family	générale
+Cluster général	5'-AMP-activated protein kinase beta subunit family	générale
+Cluster général	Sodium channel (TC 1.A.1.10) family, Nav1.1/SCN1A subfamily	générale
+Cluster général	Adenylyl cyclase class-4/guanylyl cyclase family	générale
+Cluster général	Aconitase/IPM isomerase family	générale
+Cluster général	Ligand-gated ion channel (TC 1.A.9) family, 5-hydroxytryptamine receptor (TC 1.A.9.2) subfamily, HTR3B sub-subfamily	générale
+Cluster général	NOTCH family	générale
+Cluster général	AGR family	générale
+Cluster général	Alkaline ceramidase family	générale
+Cluster général	Ferredoxin--NADP reductase type 1 family	générale
+Cluster général	AKAP110 family	générale
+Cluster général	Ligand-gated ion channel (TC 1.A.9) family, Acetylcholine receptor (TC 1.A.9.1) subfamily, Beta-2/CHRNB2 sub-subfamily	générale
+Cluster général	Adrenomedullin family	générale
+Cluster général	Sirtuin family, Class I subfamily	générale
+Cluster général	AspA/AstE family, Aspartoacylase subfamily	générale
+Cluster général	Succinate/malate CoA ligase beta subunit family; Succinate/malate CoA ligase alpha subunit family	générale
+Cluster général	7B2 family	générale
+Cluster général	Aldehyde dehydrogenase family	générale
+Cluster général	Ligand-gated ion channel (TC 1.A.9) family, Acetylcholine receptor (TC 1.A.9.1) subfamily, Alpha-5/CHRNA5 sub-subfamily	générale
+Cluster général	Phosphatase 2A regulatory subunit B56 family	générale
+Cluster général	Acyl-CoA oxidase family	générale
+Cluster général	ABC transporter superfamily, ABCF family, EF3 subfamily	générale
+Cluster général	Glucosamine/galactosamine-6-phosphate isomerase family, 6-phosphogluconolactonase subfamily	générale
+Cluster général	Phosphatase 2A regulatory subunit A family	générale
+Cluster général	Glycosyltransferase 6 family	générale
+Cluster général	ABC transporter superfamily, ABCG family, Eye pigment precursor importer (TC 3.A.1.204) subfamily	générale
+Cluster général	Argonaute family, Ago subfamily	générale
+Cluster général	14-3-3 family	générale
+Cluster général	TGF-beta family	générale
+Cluster général	Potassium channel family, KQT (TC 1.A.1.15) subfamily, Kv7.1/KCNQ1 sub-subfamily	générale
+Cluster général	GOLGA2 family	générale
+Cluster général	AKAP95 family	générale
+Cluster général	ACBP family	générale
+Cluster général	ABC transporter superfamily, ABCB family, Heavy Metal importer (TC 3.A.1.210) subfamily	générale
+Cluster général	Peptidase M14 family	générale
+Cluster général	FAD-dependent oxidoreductase family	générale
+Cluster général	Protein kinase superfamily, TKL Ser/Thr protein kinase family	générale
+Cluster général	Fibrillin family	générale
+Cluster général	AAMDC family	générale
+Cluster général	Ligand-gated ion channel (TC 1.A.9) family, Acetylcholine receptor (TC 1.A.9.1) subfamily, Delta/CHRND sub-subfamily	générale
+Cluster général	Ligand-gated ion channel (TC 1.A.9) family, Acetylcholine receptor (TC 1.A.9.1) subfamily, Alpha-3/CHRNA3 sub-subfamily	générale
+Cluster général	G-protein coupled receptor 1 family, Adrenergic receptor subfamily, ADRA2A sub-subfamily	générale
+Cluster général	ACBD7 family	générale
+Cluster général	AKNA family	générale
+Cluster général	FAD-binding oxidoreductase/transferase type 4 family	générale
+Cluster général	6-phosphogluconate dehydrogenase family	générale
+Cluster général	ABC transporter superfamily, ABCB family, MHC peptide exporter (TC 3.A.1.209) subfamily	générale
+Cluster général	G-protein coupled receptor 2 family, Adhesion G-protein coupled receptor (ADGR) subfamily	générale
+Cluster général	Peptidase S33 family, ABHD4/ABHD5 subfamily	générale
+Cluster général	Adenosine and AMP deaminases family	générale
+Cluster général	Actin family	générale
+Cluster général	AHA1 family	générale
+Cluster général	MHC class II family	générale
+Cluster général	Serpin family	générale
+Cluster général	Aldo/keto reductase family	générale
+Cluster général	ADP-ribosylglycohydrolase family	générale
+Cluster général	EIF4E-binding protein family	générale
+Cluster général	ABC transporter superfamily, ABCE family	générale
+Cluster général	Ligand-gated ion channel (TC 1.A.9) family, Acetylcholine receptor (TC 1.A.9.1) subfamily, Beta-3/CHRNB3 sub-subfamily	générale
+Cluster général	Ligand-gated ion channel (TC 1.A.9) family, Acetylcholine receptor (TC 1.A.9.1) subfamily, Gamma/CHRNG sub-subfamily	générale
+Cluster général	AAR2 family	générale
+Protein kinase superfamily, CAMK Ser/Thr protein kinase family, SNF1 subfamily	AAPK1_MOUSE	familiale
+3-hydroxyisobutyrate dehydrogenase family	3HIDH_HUMAN	familiale
+MLLT11 family	AF1Q_MOUSE	familiale
+Metallophosphoesterase superfamily, Purple acid phosphatase family	ACP7_MOUSE	familiale
+G-protein coupled receptor 1 family, Muscarinic acetylcholine receptor subfamily, CHRM3 sub-subfamily	ACM3_MOUSE	familiale
+Multicopper oxidase family	FA8_HUMAN	familiale
+Nuclear hormone receptor family, NR3 subfamily	ANDR_HUMAN	familiale
+AB hydrolase superfamily, ABHD17 family	AB17A_HUMAN	familiale
+AB hydrolase superfamily, ABHD17 family	AB17B_HUMAN	familiale
+AB hydrolase superfamily, ABHD17 family	AB17C_MOUSE	familiale
+AB hydrolase superfamily, ABHD17 family	AB17B_MOUSE	familiale
+ABC transporter superfamily, ABCD family, Peroxisomal fatty acyl CoA transporter (TC 3.A.1.203) subfamily	ABCD2_HUMAN	familiale
+ABC transporter superfamily, ABCD family, Peroxisomal fatty acyl CoA transporter (TC 3.A.1.203) subfamily	ABCD1_HUMAN	familiale
+ABC transporter superfamily, ABCD family, Peroxisomal fatty acyl CoA transporter (TC 3.A.1.203) subfamily	ABCD4_HUMAN	familiale
+Alpha-actinin family	ACTN2_MOUSE	familiale
+Alpha-actinin family	ACTN4_HUMAN	familiale
+Alpha-actinin family	ACTN1_HUMAN	familiale
+Alpha-actinin family	ACTN3_HUMAN	familiale
+AB hydrolase superfamily, ABHD16 family	ABHGB_HUMAN	familiale
+AB hydrolase superfamily, ABHD16 family	ABHGB_MOUSE	familiale
+Bcl-2 family	BCL2_MOUSE	familiale
+5'-nucleotidase type 3 family	5NT1B_MOUSE	familiale
+5'-nucleotidase type 3 family	5NT1A_HUMAN	familiale
+Acylphosphatase family	ACYP2_HUMAN	familiale
+Acylphosphatase family	AD26A_MOUSE	familiale
+Acylphosphatase family	ADA18_MOUSE	familiale
+G-protein coupled receptor 1 family, Muscarinic acetylcholine receptor subfamily, CHRM1 sub-subfamily	ACM1_MOUSE	familiale
+G-protein coupled receptor 1 family, Adrenergic receptor subfamily, ADRA1A sub-subfamily	ADA1A_HUMAN	familiale
+G-protein coupled receptor 1 family, Adrenergic receptor subfamily, ADRA1A sub-subfamily	ADA32_MOUSE	familiale
+G-protein coupled receptor 1 family, Adrenergic receptor subfamily, ADRA1A sub-subfamily	ADAP2_HUMAN	familiale
+G-protein coupled receptor 1 family, Adrenergic receptor subfamily, ADRA1A sub-subfamily	ADAS1_HUMAN	familiale
+G-protein coupled receptor 1 family, Adrenergic receptor subfamily, ADRA1A sub-subfamily	ADA1A_MOUSE	familiale
+G-protein coupled receptor 1 family, Adrenergic receptor subfamily, ADRA1A sub-subfamily	ADA21_HUMAN	familiale
+G-protein coupled receptor 1 family, Adrenergic receptor subfamily, ADRA1A sub-subfamily	ADA22_MOUSE	familiale
+G-protein coupled receptor 1 family, Adrenergic receptor subfamily, ADRA1A sub-subfamily	ADA29_HUMAN	familiale
+ADRM1 family	ADRM1_HUMAN	familiale
+G-protein coupled receptor 1 family, Adrenergic receptor subfamily, ADRB3 sub-subfamily	ADRB3_HUMAN	familiale
+Pyrimidine 5'-nucleotidase family	5NT3A_MOUSE	familiale
+Pyrimidine 5'-nucleotidase family	A1BG_MOUSE	familiale
+Pyrimidine 5'-nucleotidase family	A20A5_HUMAN	familiale
+Pyrimidine 5'-nucleotidase family	A26L1_HUMAN	familiale
+Pyrimidine 5'-nucleotidase family	5NT3B_MOUSE	familiale
+Pyrimidine 5'-nucleotidase family	5NT3B_HUMAN	familiale
+Zyxin/ajuba family	AJUBA_MOUSE	familiale
+ADAD family	ADAD2_HUMAN	familiale
+ADAD family	ADAM2_MOUSE	familiale
+ADAD family	ADAM7_MOUSE	familiale
+ADAD family	ADAM9_HUMAN	familiale
+G-protein coupled receptor 1 family, Adrenergic receptor subfamily, ADRB1 sub-subfamily	ADRB1_HUMAN	familiale
+Sodium channel (TC 1.A.1.10) family, Nav1.5/SCN5A subfamily	SCN5A_HUMAN	familiale
+G-protein coupled receptor 1 family, Adrenergic receptor subfamily, ADRA1B sub-subfamily	ADA1B_MOUSE	familiale
+ADIPOR family	ADR2_MOUSE	familiale
+G-protein coupled receptor 1 family, Adrenergic receptor subfamily, ADRA2B sub-subfamily	ADA2B_MOUSE	familiale
+AAA ATPase family; Peptidase M41 family	AFG32_MOUSE	familiale
+Cytidine and deoxycytidylate deaminase family, ADAT2 subfamily	ADAT2_HUMAN	familiale
+Cytidine and deoxycytidylate deaminase family, ADAT2 subfamily	ADAT2_MOUSE	familiale
+Intermediate filament family	K1C40_HUMAN	familiale
+Ligand-gated ion channel (TC 1.A.9) family, 5-hydroxytryptamine receptor (TC 1.A.9.2) subfamily, HTR3A sub-subfamily	5HT3A_MOUSE	familiale
+ESF2/ABP1 family	ABT1_MOUSE	familiale
+ESF2/ABP1 family	ACBD6_HUMAN	familiale
+Dicarboxylate/amino acid:cation symporter (DAACS) (TC 2.A.23) family, SLC1A5 subfamily	AAAT_HUMAN	familiale
+G-protein coupled receptor 2 family, LN-TM7 subfamily	AGRG1_HUMAN	familiale
+G-protein coupled receptor 2 family, LN-TM7 subfamily	AGRL3_MOUSE	familiale
+Protein kinase superfamily, ADCK protein kinase family	ADCK2_MOUSE	familiale
+Protein kinase superfamily, ADCK protein kinase family	ADCK1_HUMAN	familiale
+Protein kinase superfamily, ADCK protein kinase family	ADCK3_MOUSE	familiale
+Protein kinase superfamily, ADCK protein kinase family	ADCK4_MOUSE	familiale
+Protein kinase superfamily, ADCK protein kinase family	ADCK2_HUMAN	familiale
+Protein kinase superfamily, ADCK protein kinase family	ADCK3_HUMAN	familiale
+Protein kinase superfamily, ADCK protein kinase family	ADCK5_MOUSE	familiale
+ABC transporter superfamily, ABCB family, Multidrug resistance exporter (TC 3.A.1.201) subfamily	ABCB5_HUMAN	familiale
+ABC transporter superfamily, ABCB family, Multidrug resistance exporter (TC 3.A.1.201) subfamily	ABCBB_MOUSE	familiale
+Ligand-gated ion channel (TC 1.A.9) family, Acetylcholine receptor (TC 1.A.9.1) subfamily, Alpha-1/CHRNA1 sub-subfamily	ACHA_HUMAN	familiale
+Ligand-gated ion channel (TC 1.A.9) family, Acetylcholine receptor (TC 1.A.9.1) subfamily, Alpha-1/CHRNA1 sub-subfamily	ACHA_MOUSE	familiale
+Ligand-gated ion channel (TC 1.A.9) family, Acetylcholine receptor (TC 1.A.9.1) subfamily, Beta-1/CHRNB1 sub-subfamily	ACHB_MOUSE	familiale
+Ligand-gated ion channel (TC 1.A.9) family, Acetylcholine receptor (TC 1.A.9.1) subfamily, Alpha-7/CHRNA7 sub-subfamily	ACHA7_MOUSE	familiale
+Ligand-gated ion channel (TC 1.A.9) family, Acetylcholine receptor (TC 1.A.9.1) subfamily, Alpha-7/CHRNA7 sub-subfamily	ACHA7_HUMAN	familiale
+ADPRibase-Mn family	ADPRM_MOUSE	familiale
+ADPRibase-Mn family	ADPRM_HUMAN	familiale
+Peptidase M2 family	ACE_HUMAN	familiale
+ABC transporter superfamily	ABCAD_HUMAN	familiale
+Akirin family	AKIR1_MOUSE	familiale
+ALB/AFP/VDB family	AFAM_MOUSE	familiale
+ALB/AFP/VDB family	AFAP1_MOUSE	familiale
+G-protein coupled receptor 1 family, Adrenergic receptor subfamily, ADRA2C sub-subfamily	ADA2C_HUMAN	familiale
+G-protein coupled receptor 1 family, Adrenergic receptor subfamily, ADRA2C sub-subfamily	ADA32_HUMAN	familiale
+G-protein coupled receptor 1 family, Adrenergic receptor subfamily, ADRA2C sub-subfamily	ADA33_MOUSE	familiale
+ABI family	ABI2_HUMAN	familiale
+ABI family	ABLM1_MOUSE	familiale
+ABI family	ABI3_MOUSE	familiale
+Protein kinase superfamily, Tyr protein kinase family	ACK1_MOUSE	familiale
+3-HAO family	3HAO_HUMAN	familiale
+Peptidase C2 family	ADGB_MOUSE	familiale
+Peptidase C2 family	ADGB_HUMAN	familiale
+ABC transporter superfamily, ABCC family, Conjugate transporter (TC 3.A.1.208) subfamily	ABCC9_MOUSE	familiale
+G-protein coupled receptor 1 family	5HT2C_HUMAN	familiale
+G-protein coupled receptor 1 family	5HT5B_MOUSE	familiale
+G-protein coupled receptor 1 family	5HT7R_HUMAN	familiale
+G-protein coupled receptor 1 family	AA3R_MOUSE	familiale
+G-protein coupled receptor 1 family	AGTR2_MOUSE	familiale
+G-protein coupled receptor 1 family	AA1R_MOUSE	familiale
+G-protein coupled receptor 1 family	ACTHR_MOUSE	familiale
+G-protein coupled receptor 1 family	AGTR1_HUMAN	familiale
+G-protein coupled receptor 1 family	AHDC1_MOUSE	familiale
+MHC class I family	1A02_HUMAN	familiale
+MHC class I family	1A80_HUMAN	familiale
+MHC class I family	1B07_HUMAN	familiale
+MHC class I family	1B13_HUMAN	familiale
+MHC class I family	1B18_HUMAN	familiale
+MHC class I family	1B38_HUMAN	familiale
+MHC class I family	1B39_HUMAN	familiale
+MHC class I family	1B46_HUMAN	familiale
+MHC class I family	1B48_HUMAN	familiale
+MHC class I family	1B56_HUMAN	familiale
+MHC class I family	1B58_HUMAN	familiale
+MHC class I family	1C01_HUMAN	familiale
+MHC class I family	1C03_HUMAN	familiale
+MHC class I family	1C05_HUMAN	familiale
+MHC class I family	1C08_HUMAN	familiale
+MHC class I family	1C15_HUMAN	familiale
+MHC class I family	1A23_HUMAN	familiale
+MHC class I family	1A24_HUMAN	familiale
+MHC class I family	1A30_HUMAN	familiale
+MHC class I family	1A34_HUMAN	familiale
+MHC class I family	1B27_HUMAN	familiale
+MHC class I family	1B37_HUMAN	familiale
+MHC class I family	1B42_HUMAN	familiale
+MHC class I family	1B45_HUMAN	familiale
+MHC class I family	1B51_HUMAN	familiale
+MHC class I family	1B53_HUMAN	familiale
+MHC class I family	1B59_HUMAN	familiale
+MHC class I family	1B82_HUMAN	familiale
+MHC class I family	1C02_HUMAN	familiale
+MHC class I family	1C04_HUMAN	familiale
+MHC class I family	1C06_HUMAN	familiale
+MHC class I family	1C12_HUMAN	familiale
+MHC class I family	1C18_HUMAN	familiale
+MHC class I family	1A01_HUMAN	familiale
+MHC class I family	1A29_HUMAN	familiale
+MHC class I family	1A33_HUMAN	familiale
+MHC class I family	1A66_HUMAN	familiale
+MHC class I family	1A68_HUMAN	familiale
+MHC class I family	1B35_HUMAN	familiale
+MHC class I family	1B40_HUMAN	familiale
+MHC class I family	1B44_HUMAN	familiale
+MHC class I family	1B50_HUMAN	familiale
+MHC class I family	1B54_HUMAN	familiale
+MHC class I family	1B67_HUMAN	familiale
+MHC class I family	1B78_HUMAN	familiale
+MHC class I family	1C07_HUMAN	familiale
+MHC class I family	1C14_HUMAN	familiale
+MHC class I family	1C17_HUMAN	familiale
+MHC class I family	41_HUMAN	familiale
+AB hydrolase superfamily, ABHD14 family	ABHEB_MOUSE	familiale
+AB hydrolase superfamily, ABHD14 family	ABHEB_HUMAN	familiale
+AB hydrolase superfamily, ABHD14 family	ABLM2_HUMAN	familiale
+AB hydrolase superfamily, ABHD14 family	ABLM3_MOUSE	familiale
+AB hydrolase superfamily, ABHD14 family	ABR_HUMAN	familiale
+Hedgehog family	SHH_MOUSE	familiale
+THEM4/THEM5 thioesterase family	ACO15_HUMAN	familiale
+ATP-dependent AMP-binding enzyme family, Bubblegum subfamily	ACBG1_MOUSE	familiale
+ATP-dependent AMP-binding enzyme family, Bubblegum subfamily	ACBG2_HUMAN	familiale
+Ligand-gated ion channel (TC 1.A.9) family, Acetylcholine receptor (TC 1.A.9.1) subfamily, Epsilon/CHRNE sub-subfamily	ACHE_MOUSE	familiale
+Fatty acid desaturase type 1 family	ACOD2_MOUSE	familiale
+Fatty acid desaturase type 1 family	ACOD1_MOUSE	familiale
+Fatty acid desaturase type 1 family	ACOD_HUMAN	familiale
+Cytidine and deoxycytidylate deaminase family	ABC3A_HUMAN	familiale
+Cytidine and deoxycytidylate deaminase family	ABEC1_MOUSE	familiale
+Protein kinase superfamily, TKL Ser/Thr protein kinase family, TGFB receptor subfamily	ACVL1_HUMAN	familiale
+Protein kinase superfamily, TKL Ser/Thr protein kinase family, TGFB receptor subfamily	ADA10_HUMAN	familiale
+Protein kinase superfamily, TKL Ser/Thr protein kinase family, TGFB receptor subfamily	ADA19_HUMAN	familiale
+Protein kinase superfamily, TKL Ser/Thr protein kinase family, TGFB receptor subfamily	ACV1B_MOUSE	familiale
+Protein kinase superfamily, TKL Ser/Thr protein kinase family, TGFB receptor subfamily	ACV1C_HUMAN	familiale
+Protein kinase superfamily, TKL Ser/Thr protein kinase family, TGFB receptor subfamily	ACVR1_HUMAN	familiale
+APP family	A4_HUMAN	familiale
+Type-B carboxylesterase/lipase family	ACES_MOUSE	familiale
+Type-B carboxylesterase/lipase family	ACES_HUMAN	familiale
+Thioesterase PaaI family	ACO13_MOUSE	familiale
+5'(3')-deoxyribonucleotidase family	5NTC_MOUSE	familiale
+5'(3')-deoxyribonucleotidase family	5NTC_HUMAN	familiale
+Acyl coenzyme A hydrolase family	ACOT9_MOUSE	familiale
+AB hydrolase superfamily, AB hydrolase 4 family	ABH15_MOUSE	familiale
+AB hydrolase superfamily, AB hydrolase 4 family	ABHD3_MOUSE	familiale
+Protein kinase superfamily, CAMK Ser/Thr protein kinase family	TITIN_HUMAN	familiale
+Protein kinase superfamily, CAMK Ser/Thr protein kinase family	BRCA1_HUMAN	familiale
+Ligand-gated ion channel (TC 1.A.9) family, Acetylcholine receptor (TC 1.A.9.1) subfamily, Beta-4/CHRNB4 sub-subfamily	ACHB4_HUMAN	familiale
+Adipolin/erythroferrone family	ADIPL_MOUSE	familiale
+Adipolin/erythroferrone family	ADM1A_MOUSE	familiale
+Beta-catenin family	CTNB1_MOUSE	familiale
+Beta-catenin family	CTNB1_HUMAN	familiale
+Protein kinase superfamily, Tyr protein kinase family, ABL subfamily	ABL2_HUMAN	familiale
+Actin family, ARP1 subfamily	ACTZ_HUMAN	familiale
+P53 family	P53_HUMAN	familiale
+P53 family	P53_MOUSE	familiale
+P53 family	PTEN_HUMAN	familiale
+5'-AMP-activated protein kinase gamma subunit family	AAKG3_MOUSE	familiale
+5'-AMP-activated protein kinase gamma subunit family	AAKG1_MOUSE	familiale
+5'-AMP-activated protein kinase gamma subunit family	AAKG3_HUMAN	familiale
+5'-AMP-activated protein kinase gamma subunit family	AARD_MOUSE	familiale
+Protein kinase superfamily, AGC Ser/Thr protein kinase family, RAC subfamily	AKT1_HUMAN	familiale
+Protein kinase superfamily, AGC Ser/Thr protein kinase family, RAC subfamily	AKT2_MOUSE	familiale
+Protein kinase superfamily, AGC Ser/Thr protein kinase family, RAC subfamily	AKTS1_MOUSE	familiale
+Protein kinase superfamily, AGC Ser/Thr protein kinase family, RAC subfamily	AL14E_HUMAN	familiale
+Ligand-gated ion channel (TC 1.A.9) family, Acetylcholine receptor (TC 1.A.9.1) subfamily, Alpha-2/CHRNA2 sub-subfamily	ACHA2_MOUSE	familiale
+G-protein coupled receptor 1 family, Adrenergic receptor subfamily, ADRA1D sub-subfamily	ADA1D_MOUSE	familiale
+Ligand-gated ion channel (TC 1.A.9) family, Acetylcholine receptor (TC 1.A.9.1) subfamily, Alpha-4/CHRNA4 sub-subfamily	ACHA4_MOUSE	familiale
+ALG10 glucosyltransferase family	AG10A_HUMAN	familiale
+ALG10 glucosyltransferase family	AG10B_MOUSE	familiale
+C/M/P thioester hydrolase family	ACOT1_HUMAN	familiale
+C/M/P thioester hydrolase family	ACOT2_HUMAN	familiale
+C/M/P thioester hydrolase family	ACOT6_HUMAN	familiale
+C/M/P thioester hydrolase family	ACOT8_MOUSE	familiale
+C/M/P thioester hydrolase family	ACNT1_MOUSE	familiale
+C/M/P thioester hydrolase family	ACO12_MOUSE	familiale
+C/M/P thioester hydrolase family	ACOT6_MOUSE	familiale
+RBR family, Parkin subfamily	PRKN2_HUMAN	familiale
+AF4 family	AFF1_MOUSE	familiale
+AF4 family	AFF2_MOUSE	familiale
+AF4 family	AFF3_MOUSE	familiale
+AF4 family	AFF4_MOUSE	familiale
+ATP-dependent AMP-binding enzyme family	ACSL1_HUMAN	familiale
+ATP-dependent AMP-binding enzyme family	ACSL6_HUMAN	familiale
+ATP-dependent AMP-binding enzyme family	AACS_HUMAN	familiale
+ATP-dependent AMP-binding enzyme family	ACS2B_HUMAN	familiale
+ATP-dependent AMP-binding enzyme family	ACSF3_MOUSE	familiale
+ATP-dependent AMP-binding enzyme family	ACSM1_HUMAN	familiale
+ATP-dependent AMP-binding enzyme family	ACSM3_HUMAN	familiale
+ATP-dependent AMP-binding enzyme family	ACSM4_HUMAN	familiale
+ATP-dependent AMP-binding enzyme family	AACS_MOUSE	familiale
+ATP-dependent AMP-binding enzyme family	ACS2A_HUMAN	familiale
+ATP-dependent AMP-binding enzyme family	ACSA_HUMAN	familiale
+ATP-dependent AMP-binding enzyme family	ACSL3_HUMAN	familiale
+ATP-dependent AMP-binding enzyme family	ACSL4_MOUSE	familiale
+ATP-dependent AMP-binding enzyme family	ACSL6_MOUSE	familiale
+ATP-dependent AMP-binding enzyme family	ACS2L_MOUSE	familiale
+ATP-dependent AMP-binding enzyme family	ACSF2_MOUSE	familiale
+ATP-dependent AMP-binding enzyme family	ACSF4_HUMAN	familiale
+ATP-dependent AMP-binding enzyme family	ACSL5_MOUSE	familiale
+ATP-dependent AMP-binding enzyme family	ACSM5_MOUSE	familiale
+Class-II aminoacyl-tRNA synthetase family, Alax-L subfamily	AASD1_MOUSE	familiale
+Peptidase M20A family	ACY1_HUMAN	familiale
+ADAT1 family	ADAT1_MOUSE	familiale
+SLC3A transporter family	4F2_MOUSE	familiale
+Costars family	ABRAL_HUMAN	familiale
+Costars family	ABRA_HUMAN	familiale
+Costars family	ABTB1_HUMAN	familiale
+Costars family	ACACB_HUMAN	familiale
+Class-I pyridoxal-phosphate-dependent aminotransferase family	AATC_HUMAN	familiale
+Class-I pyridoxal-phosphate-dependent aminotransferase family	1A1L2_MOUSE	familiale
+Class-I pyridoxal-phosphate-dependent aminotransferase family	AADAT_MOUSE	familiale
+Class-I pyridoxal-phosphate-dependent aminotransferase family	AATC2_MOUSE	familiale
+Class-I pyridoxal-phosphate-dependent aminotransferase family	1A1L1_MOUSE	familiale
+'GDXG' lipolytic enzyme family	AAAD_HUMAN	familiale
+'GDXG' lipolytic enzyme family	AAAS_HUMAN	familiale
+'GDXG' lipolytic enzyme family	ADCL3_HUMAN	familiale
+'GDXG' lipolytic enzyme family	ADCL3_MOUSE	familiale
+Wnt family	WNT5A_MOUSE	familiale
+5'-nucleotidase family	5NTD_MOUSE	familiale
+Zinc-containing alcohol dehydrogenase family, Class-I subfamily	ADH1_MOUSE	familiale
+Zinc-containing alcohol dehydrogenase family, Class-I subfamily	ADIPO_MOUSE	familiale
+Zinc-containing alcohol dehydrogenase family, Class-I subfamily	ADNP_HUMAN	familiale
+ABC transporter superfamily, ABCB family, Mitochondrial peptide exporter (TC 3.A.1.212) subfamily	ABCBA_HUMAN	familiale
+Peptidase S1 family	ACRO_MOUSE	familiale
+AAED1 family	AAED1_MOUSE	familiale
+AATF family	AATF_HUMAN	familiale
+AATF family	AATF_MOUSE	familiale
+Peptidase S9C family	ACPH_HUMAN	familiale
+Peptidase S9C family	ACPM_MOUSE	familiale
+Acyl-CoA dehydrogenase family	ACD11_HUMAN	familiale
+Acyl-CoA dehydrogenase family	ACADL_HUMAN	familiale
+Acyl-CoA dehydrogenase family	ACDSB_HUMAN	familiale
+Acyl-CoA dehydrogenase family	ACD_HUMAN	familiale
+Acyl-CoA dehydrogenase family	ACAD8_MOUSE	familiale
+Acyl-CoA dehydrogenase family	ACADM_HUMAN	familiale
+Acyl-CoA dehydrogenase family	ACADV_HUMAN	familiale
+Acyl-CoA dehydrogenase family	ACAP2_MOUSE	familiale
+Acyl-CoA dehydrogenase family	ACDSB_MOUSE	familiale
+MRL family	AB1IP_HUMAN	familiale
+Protein kinase superfamily, Ser/Thr protein kinase family	AAK1_HUMAN	familiale
+WD repeat ATG16 family	A16L1_HUMAN	familiale
+WD repeat ATG16 family	A16L2_HUMAN	familiale
+WD repeat ATG16 family	A16L1_MOUSE	familiale
+WD repeat ATG16 family	A16L2_MOUSE	familiale
+Centaurin gamma-like family	AG14P_HUMAN	familiale
+Centaurin gamma-like family	AGAP3_MOUSE	familiale
+Centaurin gamma-like family	AGFG2_MOUSE	familiale
+Centaurin gamma-like family	AGA11_HUMAN	familiale
+Centaurin gamma-like family	AGAP1_HUMAN	familiale
+ADP-dependent glucokinase family	ADPGK_MOUSE	familiale
+Mitochondrial carrier (TC 2.A.29) family	ADT1_MOUSE	familiale
+Mitochondrial carrier (TC 2.A.29) family	ADT2_MOUSE	familiale
+Mitochondrial carrier (TC 2.A.29) family	AEDO_MOUSE	familiale
+Mitochondrial carrier (TC 2.A.29) family	ADT1_HUMAN	familiale
+Mitochondrial carrier (TC 2.A.29) family	AF10_HUMAN	familiale
+Mitochondrial carrier (TC 2.A.29) family	AF1L2_MOUSE	familiale
+Mitochondrial carrier (TC 2.A.29) family	ADT2_HUMAN	familiale
+Mitochondrial carrier (TC 2.A.29) family	ADT4_HUMAN	familiale
+Aldolase class II family, Adducin subfamily	ADDA_MOUSE	familiale
+Aldolase class II family, Adducin subfamily	ADDG_HUMAN	familiale
+Aldolase class II family, Adducin subfamily	ADDB_HUMAN	familiale
+Aldolase class II family, Adducin subfamily	ADDA_HUMAN	familiale
+Phosphatase 2A regulatory subunit B family	2ABA_HUMAN	familiale
+G-protein coupled receptor 1 family, Atypical chemokine receptor subfamily	ACKR1_MOUSE	familiale
+G-protein coupled receptor 1 family, Atypical chemokine receptor subfamily	ACKR2_MOUSE	familiale
+G-protein coupled receptor 1 family, Atypical chemokine receptor subfamily	ACKR3_HUMAN	familiale
+Protease inhibitor I39 (alpha-2-macroglobulin) family	A2MG_HUMAN	familiale
+Protein kinase superfamily, Tyr protein kinase family, EGF receptor subfamily	EGFR_HUMAN	familiale
+Serine esterase family	ABHDD_HUMAN	familiale
+Serine esterase family	ABHDD_MOUSE	familiale
+HIN-200 family	AIM2_HUMAN	familiale
+HIN-200 family	AIMP2_MOUSE	familiale
+HIN-200 family	AIPL1_MOUSE	familiale
+AB hydrolase superfamily	ABD18_HUMAN	familiale
+AB hydrolase superfamily	ABHD6_MOUSE	familiale
+AB hydrolase superfamily	ABHDA_MOUSE	familiale
+AB hydrolase superfamily	ABHD6_HUMAN	familiale
+AB hydrolase superfamily	ABHDB_HUMAN	familiale
+3-beta-HSD family	3BHS1_HUMAN	familiale
+3-beta-HSD family	3BHS4_MOUSE	familiale
+3-beta-HSD family	3BP1_MOUSE	familiale
+3-beta-HSD family	3BP2_MOUSE	familiale
+5'-AMP-activated protein kinase beta subunit family	AAKB1_MOUSE	familiale
+5'-AMP-activated protein kinase beta subunit family	AAKB2_MOUSE	familiale
+Sodium channel (TC 1.A.1.10) family, Nav1.1/SCN1A subfamily	SCN1A_HUMAN	familiale
+Adenylyl cyclase class-4/guanylyl cyclase family	ADCY2_HUMAN	familiale
+Adenylyl cyclase class-4/guanylyl cyclase family	ADCY4_MOUSE	familiale
+Adenylyl cyclase class-4/guanylyl cyclase family	ADCY5_HUMAN	familiale
+Adenylyl cyclase class-4/guanylyl cyclase family	ADCY7_HUMAN	familiale
+Adenylyl cyclase class-4/guanylyl cyclase family	ADCY1_HUMAN	familiale
+Adenylyl cyclase class-4/guanylyl cyclase family	ADCY3_MOUSE	familiale
+Adenylyl cyclase class-4/guanylyl cyclase family	ADCY7_MOUSE	familiale
+Adenylyl cyclase class-4/guanylyl cyclase family	ADCY9_MOUSE	familiale
+Adenylyl cyclase class-4/guanylyl cyclase family	ADCYA_MOUSE	familiale
+Adenylyl cyclase class-4/guanylyl cyclase family	ADCY8_MOUSE	familiale
+Adenylyl cyclase class-4/guanylyl cyclase family	ADCY1_MOUSE	familiale
+Adenylyl cyclase class-4/guanylyl cyclase family	ADCY3_HUMAN	familiale
+Aconitase/IPM isomerase family	ACOC_MOUSE	familiale
+Ligand-gated ion channel (TC 1.A.9) family, 5-hydroxytryptamine receptor (TC 1.A.9.2) subfamily, HTR3B sub-subfamily	5HT3B_HUMAN	familiale
+NOTCH family	NOTC1_MOUSE	familiale
+AGR family	AGR3_MOUSE	familiale
+Alkaline ceramidase family	ACER2_MOUSE	familiale
+Alkaline ceramidase family	ACER1_HUMAN	familiale
+Alkaline ceramidase family	ACER1_MOUSE	familiale
+Alkaline ceramidase family	ACER3_HUMAN	familiale
+Ferredoxin--NADP reductase type 1 family	ADRO_MOUSE	familiale
+AKAP110 family	AKA11_HUMAN	familiale
+AKAP110 family	AKA12_HUMAN	familiale
+AKAP110 family	AKAP9_MOUSE	familiale
+Ligand-gated ion channel (TC 1.A.9) family, Acetylcholine receptor (TC 1.A.9.1) subfamily, Beta-2/CHRNB2 sub-subfamily	ACHB2_MOUSE	familiale
+Adrenomedullin family	ADML_HUMAN	familiale
+Sirtuin family, Class I subfamily	SIR1_HUMAN	familiale
+AspA/AstE family, Aspartoacylase subfamily	ACY3_HUMAN	familiale
+AspA/AstE family, Aspartoacylase subfamily	ACY3_MOUSE	familiale
+AspA/AstE family, Aspartoacylase subfamily	ACY2_MOUSE	familiale
+Succinate/malate CoA ligase beta subunit family; Succinate/malate CoA ligase alpha subunit family	ACLY_MOUSE	familiale
+7B2 family	7B2_HUMAN	familiale
+7B2 family	A14EL_HUMAN	familiale
+Aldehyde dehydrogenase family	A16A1_HUMAN	familiale
+Aldehyde dehydrogenase family	AL1A1_HUMAN	familiale
+Aldehyde dehydrogenase family	AL1A2_MOUSE	familiale
+Aldehyde dehydrogenase family	AL2CL_HUMAN	familiale
+Aldehyde dehydrogenase family	AL2SB_HUMAN	familiale
+Ligand-gated ion channel (TC 1.A.9) family, Acetylcholine receptor (TC 1.A.9.1) subfamily, Alpha-5/CHRNA5 sub-subfamily	ACHA5_HUMAN	familiale
+Phosphatase 2A regulatory subunit B56 family	2A5A_HUMAN	familiale
+Phosphatase 2A regulatory subunit B56 family	2A5E_HUMAN	familiale
+Phosphatase 2A regulatory subunit B56 family	2A5G_HUMAN	familiale
+Phosphatase 2A regulatory subunit B56 family	2A5B_HUMAN	familiale
+Acyl-CoA oxidase family	ACOX1_HUMAN	familiale
+Acyl-CoA oxidase family	ACOXL_MOUSE	familiale
+Acyl-CoA oxidase family	ACOX2_MOUSE	familiale
+Acyl-CoA oxidase family	ACOXL_HUMAN	familiale
+Acyl-CoA oxidase family	ACPM_HUMAN	familiale
+Acyl-CoA oxidase family	ACRBP_HUMAN	familiale
+Acyl-CoA oxidase family	ACOX3_HUMAN	familiale
+ABC transporter superfamily, ABCF family, EF3 subfamily	ABCF1_HUMAN	familiale
+ABC transporter superfamily, ABCF family, EF3 subfamily	ABCF2_HUMAN	familiale
+ABC transporter superfamily, ABCF family, EF3 subfamily	ABCF3_HUMAN	familiale
+ABC transporter superfamily, ABCF family, EF3 subfamily	ABCF1_MOUSE	familiale
+ABC transporter superfamily, ABCF family, EF3 subfamily	ABCF2_MOUSE	familiale
+Glucosamine/galactosamine-6-phosphate isomerase family, 6-phosphogluconolactonase subfamily	6PGL_HUMAN	familiale
+Phosphatase 2A regulatory subunit A family	2AAA_MOUSE	familiale
+Phosphatase 2A regulatory subunit A family	2AAA_HUMAN	familiale
+Phosphatase 2A regulatory subunit A family	2AAB_MOUSE	familiale
+Glycosyltransferase 6 family	A3LT2_MOUSE	familiale
+ABC transporter superfamily, ABCG family, Eye pigment precursor importer (TC 3.A.1.204) subfamily	ABCG1_MOUSE	familiale
+ABC transporter superfamily, ABCG family, Eye pigment precursor importer (TC 3.A.1.204) subfamily	ABCG2_MOUSE	familiale
+ABC transporter superfamily, ABCG family, Eye pigment precursor importer (TC 3.A.1.204) subfamily	ABCG5_HUMAN	familiale
+ABC transporter superfamily, ABCG family, Eye pigment precursor importer (TC 3.A.1.204) subfamily	ABCG4_HUMAN	familiale
+Argonaute family, Ago subfamily	AGO3_MOUSE	familiale
+Argonaute family, Ago subfamily	AGO1_MOUSE	familiale
+Argonaute family, Ago subfamily	AGO3_HUMAN	familiale
+14-3-3 family	1433F_MOUSE	familiale
+14-3-3 family	1433G_MOUSE	familiale
+14-3-3 family	1433S_MOUSE	familiale
+14-3-3 family	1433S_HUMAN	familiale
+14-3-3 family	1433B_MOUSE	familiale
+14-3-3 family	1433E_MOUSE	familiale
+14-3-3 family	1433F_HUMAN	familiale
+TGF-beta family	BMP4_MOUSE	familiale
+Potassium channel family, KQT (TC 1.A.1.15) subfamily, Kv7.1/KCNQ1 sub-subfamily	KCNQ1_HUMAN	familiale
+GOLGA2 family	GOGA2_HUMAN	familiale
+AKAP95 family	AKP8L_MOUSE	familiale
+ACBP family	ACBP_HUMAN	familiale
+ABC transporter superfamily, ABCB family, Heavy Metal importer (TC 3.A.1.210) subfamily	ABCB6_MOUSE	familiale
+Peptidase M14 family	AEBP1_MOUSE	familiale
+Peptidase M14 family	AEDO_HUMAN	familiale
+Peptidase M14 family	AEGP_MOUSE	familiale
+Peptidase M14 family	AEN_MOUSE	familiale
+FAD-dependent oxidoreductase family	AIFM1_MOUSE	familiale
+FAD-dependent oxidoreductase family	AIM1L_HUMAN	familiale
+Protein kinase superfamily, TKL Ser/Thr protein kinase family	LRRK2_HUMAN	familiale
+Fibrillin family	FBN1_HUMAN	familiale
+AAMDC family	AAMDC_MOUSE	familiale
+Ligand-gated ion channel (TC 1.A.9) family, Acetylcholine receptor (TC 1.A.9.1) subfamily, Delta/CHRND sub-subfamily	ACHD_HUMAN	familiale
+Ligand-gated ion channel (TC 1.A.9) family, Acetylcholine receptor (TC 1.A.9.1) subfamily, Alpha-3/CHRNA3 sub-subfamily	ACHA3_MOUSE	familiale
+Ligand-gated ion channel (TC 1.A.9) family, Acetylcholine receptor (TC 1.A.9.1) subfamily, Alpha-3/CHRNA3 sub-subfamily	ACHA3_HUMAN	familiale
+G-protein coupled receptor 1 family, Adrenergic receptor subfamily, ADRA2A sub-subfamily	ADA2A_HUMAN	familiale
+G-protein coupled receptor 1 family, Adrenergic receptor subfamily, ADRA2A sub-subfamily	ADA33_HUMAN	familiale
+G-protein coupled receptor 1 family, Adrenergic receptor subfamily, ADRA2A sub-subfamily	ADA2A_MOUSE	familiale
+G-protein coupled receptor 1 family, Adrenergic receptor subfamily, ADRA2A sub-subfamily	ADAM8_MOUSE	familiale
+ACBD7 family	ACBD7_MOUSE	familiale
+AKNA family	AKND1_HUMAN	familiale
+FAD-binding oxidoreductase/transferase type 4 family	ADAS_MOUSE	familiale
+6-phosphogluconate dehydrogenase family	6PGD_HUMAN	familiale
+ABC transporter superfamily, ABCB family, MHC peptide exporter (TC 3.A.1.209) subfamily	ABCB9_MOUSE	familiale
+G-protein coupled receptor 2 family, Adhesion G-protein coupled receptor (ADGR) subfamily	AGRA1_MOUSE	familiale
+G-protein coupled receptor 2 family, Adhesion G-protein coupled receptor (ADGR) subfamily	AGRG3_MOUSE	familiale
+G-protein coupled receptor 2 family, Adhesion G-protein coupled receptor (ADGR) subfamily	AGRG4_HUMAN	familiale
+G-protein coupled receptor 2 family, Adhesion G-protein coupled receptor (ADGR) subfamily	AGRG5_HUMAN	familiale
+G-protein coupled receptor 2 family, Adhesion G-protein coupled receptor (ADGR) subfamily	AGRIN_MOUSE	familiale
+G-protein coupled receptor 2 family, Adhesion G-protein coupled receptor (ADGR) subfamily	AGRL1_HUMAN	familiale
+G-protein coupled receptor 2 family, Adhesion G-protein coupled receptor (ADGR) subfamily	AGRP_HUMAN	familiale
+G-protein coupled receptor 2 family, Adhesion G-protein coupled receptor (ADGR) subfamily	AGRA2_MOUSE	familiale
+G-protein coupled receptor 2 family, Adhesion G-protein coupled receptor (ADGR) subfamily	AGRB2_HUMAN	familiale
+G-protein coupled receptor 2 family, Adhesion G-protein coupled receptor (ADGR) subfamily	AGRB3_MOUSE	familiale
+G-protein coupled receptor 2 family, Adhesion G-protein coupled receptor (ADGR) subfamily	AGRD1_MOUSE	familiale
+G-protein coupled receptor 2 family, Adhesion G-protein coupled receptor (ADGR) subfamily	AGRE4_MOUSE	familiale
+G-protein coupled receptor 2 family, Adhesion G-protein coupled receptor (ADGR) subfamily	AGRG3_HUMAN	familiale
+G-protein coupled receptor 2 family, Adhesion G-protein coupled receptor (ADGR) subfamily	AGRG5_MOUSE	familiale
+G-protein coupled receptor 2 family, Adhesion G-protein coupled receptor (ADGR) subfamily	AGRL1_MOUSE	familiale
+Peptidase S33 family, ABHD4/ABHD5 subfamily	ABHD4_MOUSE	familiale
+Adenosine and AMP deaminases family	ADAL_HUMAN	familiale
+Adenosine and AMP deaminases family	ADAM2_HUMAN	familiale
+Adenosine and AMP deaminases family	ADAM7_HUMAN	familiale
+Adenosine and AMP deaminases family	ADAM8_HUMAN	familiale
+Actin family	ACL7B_MOUSE	familiale
+Actin family	ACO11_MOUSE	familiale
+Actin family	ACTC_MOUSE	familiale
+Actin family	ACTL9_MOUSE	familiale
+Actin family	ADA11_HUMAN	familiale
+Actin family	ADA18_HUMAN	familiale
+Actin family	ACL6B_HUMAN	familiale
+Actin family	ACTBL_HUMAN	familiale
+Actin family	ACTB_HUMAN	familiale
+Actin family	ACTT3_HUMAN	familiale
+Actin family	ACTA_MOUSE	familiale
+Actin family	ACTBM_HUMAN	familiale
+Actin family	ACTC_HUMAN	familiale
+Actin family	ACTH_HUMAN	familiale
+Actin family	ACTT2_HUMAN	familiale
+Actin family	ACL10_MOUSE	familiale
+Actin family	ACL7A_HUMAN	familiale
+Actin family	ACTA_HUMAN	familiale
+Actin family	ACTB_MOUSE	familiale
+Actin family	ACTG_HUMAN	familiale
+Actin family	ACTL8_HUMAN	familiale
+Actin family	ACTT2_MOUSE	familiale
+AHA1 family	AHSA2_MOUSE	familiale
+MHC class II family	2B1B_HUMAN	familiale
+MHC class II family	2B1F_HUMAN	familiale
+MHC class II family	2B1C_HUMAN	familiale
+MHC class II family	2B1E_HUMAN	familiale
+Serpin family	A2AP_HUMAN	familiale
+Serpin family	A4AS1_HUMAN	familiale
+Serpin family	A1ATR_HUMAN	familiale
+Serpin family	A1AT2_MOUSE	familiale
+Serpin family	A1BG_HUMAN	familiale
+Serpin family	A1CF_HUMAN	familiale
+Serpin family	A20A1_HUMAN	familiale
+Serpin family	A20A4_HUMAN	familiale
+Serpin family	A2GL_HUMAN	familiale
+Aldo/keto reductase family	AK1BA_HUMAN	familiale
+Aldo/keto reductase family	AK1CD_MOUSE	familiale
+Aldo/keto reductase family	AK1D1_MOUSE	familiale
+Aldo/keto reductase family	AKCL2_MOUSE	familiale
+Aldo/keto reductase family	AKIP1_MOUSE	familiale
+ADP-ribosylglycohydrolase family	ADPRH_MOUSE	familiale
+EIF4E-binding protein family	4EBP3_HUMAN	familiale
+EIF4E-binding protein family	4ET_MOUSE	familiale
+EIF4E-binding protein family	4EBP1_MOUSE	familiale
+EIF4E-binding protein family	4EBP3_MOUSE	familiale
+EIF4E-binding protein family	4EBP2_HUMAN	familiale
+ABC transporter superfamily, ABCE family	ABCE1_HUMAN	familiale
+ABC transporter superfamily, ABCE family	ABCE1_MOUSE	familiale
+Ligand-gated ion channel (TC 1.A.9) family, Acetylcholine receptor (TC 1.A.9.1) subfamily, Beta-3/CHRNB3 sub-subfamily	ACHB3_MOUSE	familiale
+Ligand-gated ion channel (TC 1.A.9) family, Acetylcholine receptor (TC 1.A.9.1) subfamily, Gamma/CHRNG sub-subfamily	ACHG_HUMAN	familiale
+Ligand-gated ion channel (TC 1.A.9) family, Acetylcholine receptor (TC 1.A.9.1) subfamily, Gamma/CHRNG sub-subfamily	ACINU_HUMAN	familiale
+AAR2 family	AAR2_HUMAN	familiale
