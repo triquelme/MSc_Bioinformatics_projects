@@ -1,0 +1,45 @@
+
+
+          
+   	  		      		
+   ######################                           
+   Les premiers deux lignes sont vides, ensuite il y a deux lignes avec les blancs
+   Encore quelques lignes vides ci-dessous:
+
+
+
+
+   et maintenants les lignes blancs (ou vides):
+
+
+                                            
+               
+	              	           
+     	               	     	  			
+  et c'est la ligne 19
+ un peu de nombres : 942, 5436 
+  et c'est la ligne 21
+ encore des nombres : 5, 7, 21, 5.
+Et c'est le temps de faire : Liste des items
+  la ligne avec foo et baz
+  maintenant foo mais sans ***
+cette ligne commence a la premiere colonne
+     cette ligne a commence par quelques espaces
+     	 		et celle-la encore par TAB
+			pareil
+maintenant 2 lignes vides :
+
+
+et une ligne avec les car blancs :
+	   
+premiere occurrence de : toto, deuxieme : toto
+et troisieme : toto, quatrieme : toto.
+  {un}    {deux}  {trois}
+
+  aaaaaaaaaa   Nom : Brzeczyszczykiewicz  bbbbbb Prenom : Szczepan cccccccccccc
+
+deux lignes avec les blancs et deux vides a la fin :
+     			 
+			
+
+
